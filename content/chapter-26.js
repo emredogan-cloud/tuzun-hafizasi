@@ -13,7 +13,7 @@ window.TUZ.entries.push({
     id: "bolum-26",
     title: "Hâlit'in Sonu",
     subtitle: "Küçük bir cenaze; beş ad; tanıkların gidişi",
-    category: "anilma",
+    category: "iz-surme",
     themes: ["Witness extinction", "Düzeltme'nin sonuncusu", "Soğuk toprak"],
     content: [
         "Cumartesi sabah. Reha cache'in üçüncü gecesinden döndüğünden bir kaç saat geçmişti — uyku derindi ama kısa. Saat yedi civarı sokak kapısı çalındı. Bir kez, sonra bir kez daha.",
