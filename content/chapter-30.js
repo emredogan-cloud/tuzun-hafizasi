@@ -19,11 +19,11 @@ window.TUZ.entries.push({
 
         "İki hafta geçmişti İlhan'ın gidişinden — bir gün önce Vâliçe'den ayrılmıştı, vedalaşmaya gelmişti pazartesi sabah, kapıda durmuş bir-iki şey vermiş, gitmişti. Reha onun verdiklerini hâlâ üst kattaki çekmecesinde açmadan tutuyordu — bir keten paket, küçük, içinde belli bir şey, açacaktı belki bir gün.",
 
-        "Bir başka iki hafta da geçmişti Mâra'nın sustuğu son hafta — son on bir gün boyunca yataktan inmemişti hiç. Yedikleri çok az: bir kaşık çorba sabahları, bir bardak yarım çayı öğleden sonra, akşam bir parça ekmek tutardı Reha onun dudağına, Mâra bir parça alır, çiğnemezdi tam, kapardı dudaklarını yine. Reha kaldırırdı kaşığı, bırakırdı.",
+        "Bir başka iki hafta da geçmişti Mâra'nın sustuğu son hafta — son on bir gün boyunca yataktan inmemişti hiç. Yedikleri çok az: bir kaşık çorba sabahları, bir bardak çayı öğleden sonra, akşam bir parça ekmek tutardı Reha onun dudağına, Mâra bir parça alır, çiğnemezdi tam, kapardı dudaklarını yine. Reha kaldırırdı kaşığı, bırakırdı.",
 
         "Doktor Hasan Bey gelmişti bir kez geçen hafta. Reha ona söylemişti — \"annem yemiyor.\" Doktor görmüştü Mâra'yı, dinlemişti soluk. \"Yorgun bedeni. Bir yere yetişmek istiyor belki. Bir-iki hafta belki. Belki birden, belki yavaşça.\" Reha onu duymuştu. \"Sen yanında ol. Bir başka şey yok yapacak.\"",
 
-        "Reha yanında olmuştu çoğu zaman. Üst kata çıkıp inmişti onlarca kez bir günde. Yatak başında oturmuştu — bazen bir kitap eline alarak (Cilâl'in eski çocuk romanı, Nahide'nin tutmuştu yarım, Reha'nın eline geçmişti — okumamıştı tam, sadece tutuyordu yine, Nahide'nin yaptığı gibi), bazen sade.",
+        "Reha yanında olmuştu çoğu zaman. Üst kata çıkıp inmişti onlarca kez bir günde. Yatak başında oturmuştu — bazen bir kitap eline alarak (Cilâl'in eski çocuk romanı, Nahide'nin tutmuştu, Reha'nın eline geçmişti — okumamıştı tam, sadece tutuyordu yine, Nahide'nin yaptığı gibi), bazen sade.",
 
         "Defter altta yine. Reha yazmamıştı son on günde — bir-iki ad eklemişti İlhan'ın bıraktığından sonra (bir-iki ad daha Lemi'den gelmişti, üç adın ilki — Mehmet Yörükzade, 1908, Lemi'nin teslim ettiği üç tanenin sahibi). Sonra durmuştu. Defter altta dururdu yine — açacaktı Aralık sonunda belki.",
 
@@ -33,7 +33,7 @@ window.TUZ.entries.push({
 
         "O öğleden sonra Mâra uyandı.",
 
-        "Saat üç civarı belki. Reha aşağıda mutfaktaydı — Nahide gelmişti az önce, bir küçük tabak çorba getirmişti Lemi'nin Tuzhane'sinden. Yağmurlu bir gündü, ince yağmur — Nahide hırkası ıslanmıştı kapıdan girerken. Çorba sıcaktı. Reha Nahide'yi mutfak masasına oturttu, kendisi bir tabak almıştı yarım almıştı — yiyordu yavaşça.",
+        "Saat üç civarı belki. Reha aşağıda mutfaktaydı — Nahide gelmişti az önce, bir küçük tabak çorba getirmişti Lemi'nin Tuzhane'sinden. Yağmurlu bir gündü, ince yağmur — Nahide hırkası ıslanmıştı kapıdan girerken. Çorba sıcaktı. Reha Nahide'yi mutfak masasına oturttu, kendisi bir tabak almıştı — yiyordu yavaşça.",
 
         "Üst kattan bir ses geldi. Bir küçük seslenme — annesinin sesinin tonu, çok ince.",
 
@@ -47,7 +47,7 @@ window.TUZ.entries.push({
 
         { style: "hr" },
 
-        "Annesinin odası ışığı yarımdı — perde yarım açıktı, gri öğleden sonra ışığı pencereden yarım odaya düşüyordu. Mâra yatağındaydı yine — yatakta yarı oturmuş, yastıkta arkası yarım, bedeni hâlâ küçük.",
+        "Annesinin odası ışığı yarımdı — perde yarım açıktı, gri öğleden sonra ışığı pencereden odaya düşüyordu. Mâra yatağındaydı yine — yatakta yarı oturmuş, yastıkta arkası yarım, bedeni hâlâ küçük.",
 
         "Bugün yüzü farklıydı bir parça. Bir uyanıklık vardı. Son on bir günden farklı bir uyanıklık. Reha bunu kapı eşiğinde fark etti.",
 
@@ -59,7 +59,7 @@ window.TUZ.entries.push({
 
         "— Buyur, anne.",
 
-        "Reha yatağın kenarına oturdu. Annesinin elini eline aldı yarım. Mâra elini almadı geri — Reha'nın eline bıraktı.",
+        "Reha yatağın kenarına oturdu. Annesinin elini eline aldı. Mâra elini almadı geri — Reha'nın eline bıraktı.",
 
         "Bir an.",
 
@@ -77,7 +77,7 @@ window.TUZ.entries.push({
 
         "— Biliyorsun ki söyledim, anne. Defne Mâriye.",
 
-        "Mâra başını eğdi yarım. Bunu duymuştu — yatakta odadakinin tanıdığı bir cümle, çıplak. Adın kendisi de bedenine bir tortuyla geri geldi.",
+        "Mâra başını eğdi. Bunu duymuştu — yatakta odadakinin tanıdığı bir cümle, çıplak. Adın kendisi de bedenine bir tortuyla geri geldi.",
 
         "Bir an.",
 
@@ -93,7 +93,7 @@ window.TUZ.entries.push({
 
         "— Anne, affettin mi?",
 
-        "Mâra başını yarım kaldırdı bir an. Sonra geri yastığa.",
+        "Mâra başını kaldırdı bir an. Sonra geri yastığa.",
 
         "Yüzünde bir an. Cevap kelimelerle kurulmadı tam — bedenle.",
 
@@ -105,7 +105,7 @@ window.TUZ.entries.push({
 
         "Bir an.",
 
-        "Reha cevap vermedi. Bir başka soru sormadı. Annesinin elini sıkmadı, çekmedi — eli aynı yerde tuttu yarım.",
+        "Reha cevap vermedi. Bir başka soru sormadı. Annesinin elini sıkmadı, çekmedi — eli aynı yerde tuttu.",
 
         "Mâra gözlerini kapatmadı tam. Bir-iki saniye daha açıktılar. Sonra kapadı.",
 
@@ -113,7 +113,7 @@ window.TUZ.entries.push({
 
         "Annesinin soluğu eşitti. Yavaş, ama eşit. Reha onu izledi — soluk geliyordu, gidiyordu. Mâra uyumuştu belli.",
 
-        "Reha kalkmadı henüz. Bir-iki dakika daha oturdu. Sonra elini yavaşça çekti annesinin elinden. Battaniyeyi boğazına kadar yarım çekti yine.",
+        "Reha kalkmadı henüz. Bir-iki dakika daha oturdu. Sonra elini yavaşça çekti annesinin elinden. Battaniyeyi boğazına kadar çekti yine.",
 
         "Mum yoktu yatak başında bu sefer — Reha yakmamıştı bu öğleden sonra.",
 
@@ -135,7 +135,7 @@ window.TUZ.entries.push({
 
         "Reha tabağına oturdu. Bir kaşık daha aldı — sıcak değildi artık, ama bir-iki kaşık daha gerekti bedenine, biliyordu.",
 
-        "Nahide tabağını yarım itti yan tarafa. Bir başka kaşık almadı.",
+        "Nahide tabağını itti yan tarafa. Bir başka kaşık almadı.",
 
         "Bir-iki dakika sessizce oturdular.",
 
@@ -157,7 +157,7 @@ window.TUZ.entries.push({
 
         { style: "hr" },
 
-        "Üst kata çıktığında annesinin odasının kapısı yine yarım açıktı. Reha onu yarım daha açtı, içeri girdi.",
+        "Üst kata çıktığında annesinin odasının kapısı yine yarım açıktı. Reha onu daha açtı, içeri girdi.",
 
         "Mâra yatağındaydı yine — aynı pozisyonda, yastıkta arkası yarım. Yüzü dingin.",
 
@@ -171,7 +171,7 @@ window.TUZ.entries.push({
 
         "Annesinin nefesi yine yavaşladı yarım. Bir an boyunca duraksamış gibiydi — Reha bunu fark etti. Sonra yine bir nefes, küçük. Sonra yine yarım duraksama. Sonra yine bir nefes.",
 
-        "Reha eli annesinin elinde, başını eğdi yarım. Söze gerek yoktu — bir cevap vermek istedi belki içinden, ama annesi söyleyecekti belki bir cevap istemezdi şu an. Bir nefes gelirken bir cümle söylenmez.",
+        "Reha eli annesinin elinde, başını eğdi. Söze gerek yoktu — bir cevap vermek istedi belki içinden, ama annesi söyleyecekti belki bir cevap istemezdi şu an. Bir nefes gelirken bir cümle söylenmez.",
 
         "Bir nefes daha — bu sefer daha küçük.",
 
@@ -195,7 +195,7 @@ window.TUZ.entries.push({
 
         { style: "hr" },
 
-        "Aşağıya indiğinde Nahide mutfak masasında çay koyuyordu — bardakta bir miktar buhar yarım çıkıyordu. Reha bir-iki adım kapı eşiğinde durdu, sonra yine içeri girdi.",
+        "Aşağıya indiğinde Nahide mutfak masasında çay koyuyordu — bardakta bir miktar buhar çıkıyordu. Reha bir-iki adım kapı eşiğinde durdu, sonra yine içeri girdi.",
 
         "Nahide başını çevirdi. Reha'nın yüzünü gördü.",
 
@@ -227,7 +227,7 @@ window.TUZ.entries.push({
 
         "Nahide yarım dakika sonra geri indi.",
 
-        "Yüzü değişmemişti tam — gergin değildi, ama açık da değildi. Bir Tuzcu yüzü gibi durmuştu — bir başka ölümün önünde bekleyişi öğrenmiş bir on beş yaşında kız.",
+        "Yüzü değişmemişti — gergin değildi, ama açık da değildi. Bir Tuzcu yüzü gibi durmuştu — bir başka ölümün önünde bekleyişi öğrenmiş bir on beş yaşında kız.",
 
         "— Doktora gidiyorum şimdi. Bir-iki saat içinde geliriz beraber belki, doktor evdedir akşam.",
 
@@ -261,13 +261,13 @@ window.TUZ.entries.push({
 
         "Bir-iki saniye baktı yüzüne. Yüzü yine dinginti.",
 
-        "Pencereden gri öğleden sonra ışığı yarım düşüyordu yatağa. Reha bir an o ışığa baktı — annesinin omuzuna düşüyordu, sonra battaniyenin yarım buruşmasına, sonra kıyıya.",
+        "Pencereden gri öğleden sonra ışığı düşüyordu yatağa. Reha bir an o ışığa baktı — annesinin omuzuna düşüyordu, sonra battaniyenin buruşmasına, sonra kıyıya.",
 
         "Reha annesinin yüzüne baktı yine. Bir kelime söylemedi — bir cümle söylemek istemedi tam. Cilâl Hala bir gün söylemişti yıllar önce Reha çocukken, bir cenaze sonrasında: \"Konuştuğun zaman ölünün adı çağrılır, ama o gitmiştir çoktan; konuşma onun için değil, konuşan için.\" Reha şu an konuşmadı çünkü konuşma kendi için olmamalıydı — annesi son söze cevap vermişti zaten yarım saat önce. \"Affedilecek bir şey mi var?\" Reha bir başka soru sormamıştı. Sormayacaktı şimdi de.",
 
         "Sustu. Mâra'nın yanında oturdu yarım saat belki, daha az belki.",
 
-        "Sonra ayağa kalktı. Battaniyeyi tam çekti boğazına. Annesinin saçını bir parça düzeltti yarım — yastığa yarım dağılmıştı, Reha onları geri yana çekti elinin tersiyle.",
+        "Sonra ayağa kalktı. Battaniyeyi tam çekti boğazına. Annesinin saçını bir parça düzeltti — yastığa yarım dağılmıştı, Reha onları geri yana çekti elinin tersiyle.",
 
         "Kapıyı yarım açık bıraktı yine. Aşağıya indi.",
 
@@ -307,13 +307,13 @@ window.TUZ.entries.push({
 
         { style: "hr" },
 
-        "Annesinin yanında bir sandalyeye oturdu yine. Lambayı kısdı yarım — odanın orta yerine yumuşak bir ışık. Bir mum yakmadı şu an.",
+        "Annesinin yanında bir sandalyeye oturdu yine. Lambayı kısdı — odanın orta yerine yumuşak bir ışık. Bir mum yakmadı şu an.",
 
         "Mâra'nın yüzü hareketsiz. Bir-iki saatten beri böyle.",
 
         "Reha cebine elini koydu bir an — bir küçük kuru parça vardı yıllardır cebinde, bir hatıra: annesinin yıllar önce ona vermiş olduğu bir küçük taş, sahilden bir mavi taş. Reha onu çıkardı, eline tuttu.",
 
-        "Bir an boyunca o taşa baktı. Sonra annesinin elinin yanına koydu — battaniyenin üstüne, eline yarım yakın. Cenazeden önce alacaktı yine, ya da bir başka şey yapardı.",
+        "Bir an boyunca o taşa baktı. Sonra annesinin elinin yanına koydu — battaniyenin üstüne, eline yakın. Cenazeden önce alacaktı yine, ya da bir başka şey yapardı.",
 
         "Sonra annesinin elini bir kez daha eline aldı.",
 
@@ -329,7 +329,7 @@ window.TUZ.entries.push({
 
         { style: "hr" },
 
-        "Salonda Nahide koltukta oturuyordu yine, yarı yatmış. Yorganı yarım örtmüş kendine. Uykuya yakın gibi görünmüyordu, ama bedeni dingindi.",
+        "Salonda Nahide koltukta oturuyordu yine, yarı yatmış. Yorganı örtmüş kendine. Uykuya yakın gibi görünmüyordu, ama bedeni dingindi.",
 
         "Reha mutfağa girdi. Bir bardak su koydu. İçti yavaşça.",
 
@@ -349,7 +349,7 @@ window.TUZ.entries.push({
 
         "Reha duydu.",
 
-        "Bir cevap vermedi — bir teşekkür olmazdı tam. Sadece başını eğdi yarım.",
+        "Bir cevap vermedi — bir teşekkür olmazdı tam. Sadece başını eğdi.",
 
         "Nahide bir başka şey demedi.",
 
@@ -363,7 +363,7 @@ window.TUZ.entries.push({
 
         "Aşağıya indi yine. Salonda Nahide hâlâ koltukta. Reha bir başka koltuğa oturdu yine.",
 
-        "Sabah olana kadar uyumadı tam. Bir-iki saatte yarım uyukladı. Nahide de yarım uyukladı.",
+        "Sabah olana kadar uyumadı. Bir-iki saatte yarım uyukladı. Nahide de yarım uyukladı.",
 
         "Sabah pencereden gri bir ışık geldiğinde — saat yedi civarı, kasım sonu, gün geç başlıyordu — Reha kalktı yine.",
 
@@ -371,7 +371,7 @@ window.TUZ.entries.push({
 
         "Cenaze pazar öğleden sonra olurdu belki — yarın. Ya da pazartesi sabah.",
 
-        "Reha kapıyı açtı sokağa. Aralık sabahı soğuktu — bedeni yarım titredi bir an. Hırkasını çekti.",
+        "Reha kapıyı açtı sokağa. Aralık sabahı soğuktu — bedeni titredi bir an. Hırkasını çekti.",
 
         "Yeni bir gün başlıyordu çoktan."
     ]

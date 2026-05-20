@@ -23,7 +23,7 @@ window.TUZ.entries.push({
 
         "Saat üçe doğru kapı çalındı.",
 
-        "Reha kapıyı açtı. Kimse bir-iki saniye görünmedi tam — sokağa baktı, sonra başını yarım eğdi: küçük bir gölge vardı eşiğin yan tarafında. Bir adam, eğilmiş yarım, ayakta duramayacak kadar yorulmuş gibi.",
+        "Reha kapıyı açtı. Kimse bir-iki saniye görünmedi tam — sokağa baktı, sonra başını eğdi: küçük bir gölge vardı eşiğin yan tarafında. Bir adam, eğilmiş yarım, ayakta duramayacak kadar yorulmuş gibi.",
 
         "Lemi.",
 
@@ -35,9 +35,9 @@ window.TUZ.entries.push({
 
         "— Reha. İçeri alır mısın bir an.",
 
-        "Reha kapıyı açtı. Lemi içeri girdi yavaşça — bir adım yarım, bir adım yarım. Reha onun yanına gitti yarım, kolundan tutmaya niyet etti — Lemi başını yarım kaldırdı, gözünden bir küçük itiraz geldi (\"yapma — yapabilirim\"), Reha eli yan tarafa düşürdü yine.",
+        "Reha kapıyı açtı. Lemi içeri girdi yavaşça — bir adım yarım, bir adım yarım. Reha onun yanına gitti, kolundan tutmaya niyet etti — Lemi başını yarım kaldırdı, gözünden bir küçük itiraz geldi (\"yapma — yapabilirim\"), Reha eli yan tarafa düşürdü yine.",
 
-        "Salonun ortasına geldiler bir-iki adımda. Lemi koltuğa oturdu — Mâra'nın eski koltuğuna değil tam, ondan bir-iki adım yan tarafa, Erol'un yıllar önce oturduğu küçük ahşap koltuğa. Bedeni yarım yaslandı, bacakları öne yarım uzandı.",
+        "Salonun ortasına geldiler bir-iki adımda. Lemi koltuğa oturdu — Mâra'nın eski koltuğuna değil tam, ondan bir-iki adım yan tarafa, Erol'un yıllar önce oturduğu küçük ahşap koltuğa. Bedeni yarım yaslandı, bacakları öne uzandı.",
 
         "Reha karşıya oturdu — bir başka koltuğa. Aralarında küçük masa.",
 
@@ -63,7 +63,7 @@ window.TUZ.entries.push({
 
         "— Nahide vardı. Sağol.",
 
-        "Lemi başını eğdi yarım.",
+        "Lemi başını eğdi.",
 
         "Bardağına uzandı yine — bu sefer eline aldı. İçti yarım yudum. Bıraktı.",
 
@@ -171,7 +171,7 @@ window.TUZ.entries.push({
 
         "Reha bunu kabul etti.",
 
-        "\"Bir başka çocuğa bir oda\" — Nahide. Lemi açıkça söylememişti adını şimdi, ama söylüyordu yine yarım. Reha bunu kabul ediyordu zaten.",
+        "\"Bir başka çocuğa bir oda\" — Nahide. Lemi açıkça söylememişti adını şimdi, ama söylüyordu yine. Reha bunu kabul ediyordu zaten.",
 
         { style: "hr" },
 
@@ -179,7 +179,7 @@ window.TUZ.entries.push({
 
         "Reha ayağa kalktı — Lemi'nin bardağına bir-iki yudum daha çay koymak için. Çay koydu. Geri oturdu.",
 
-        "Lemi başını eğdi yarım — bir teşekkür değildi tam, bir kabul. Bardağı bu sefer eline almadı bir süre.",
+        "Lemi başını eğdi — bir teşekkür değildi tam, bir kabul. Bardağı bu sefer eline almadı bir süre.",
 
         "Sonra konuştu yine — bir başka şey eklemek istedi belli.",
 
@@ -193,7 +193,7 @@ window.TUZ.entries.push({
 
         "Bir başka an.",
 
-        "Lemi başını yarım çevirdi pencereye — gri öğleden sonra ışığı pencere kenarından zayıf bir çizgi olarak içeri giriyordu.",
+        "Lemi başını çevirdi pencereye — gri öğleden sonra ışığı pencere kenarından zayıf bir çizgi olarak içeri giriyordu.",
 
         "— Annem bunu derdi yıllarca. Bir-iki çocuğa söylerdi yedi-sekiz yaşlarındayken. Bir çocuk bunu duyduğunda anlamaz tam — bir-iki yıl sonra anlar, başka beş-on yıl sonra başka türlü anlar. Şimdi ben anlıyorum bir başka türlü daha. Sen de bir gün bir başka türlü anlarsın.",
 
@@ -205,7 +205,7 @@ window.TUZ.entries.push({
 
         "Reha bunu Lemi'ye söylemedi tam.",
 
-        "Sadece başını eğdi yarım.",
+        "Sadece başını eğdi.",
 
         { style: "hr" },
 
@@ -215,7 +215,7 @@ window.TUZ.entries.push({
 
         "— Bir dakika. Nahide gelmedi henüz.",
 
-        "Lemi başını eğdi yarım. Yine oturdu.",
+        "Lemi başını eğdi. Yine oturdu.",
 
         "— Beş'e ne kadar var?",
 
@@ -255,7 +255,7 @@ window.TUZ.entries.push({
 
         "— Anladım.",
 
-        "Lemi başını eğdi yarım.",
+        "Lemi başını eğdi.",
 
         "— İyi.",
 
@@ -271,13 +271,13 @@ window.TUZ.entries.push({
 
         "Kapıdan çıkacaklarken Lemi bir an durdu yine — kapının iç tarafında.",
 
-        "Reha'ya başını yarım çevirdi.",
+        "Reha'ya başını çevirdi.",
 
         "— Sağol Reha.",
 
         "— Sağol değil. Sağol sen.",
 
-        "Lemi bir parça gülümsedi yarım — ilk kez bedeninde bir küçük açılma. Yorgunluğun içinde.",
+        "Lemi bir parça gülümsedi — ilk kez bedeninde bir küçük açılma. Yorgunluğun içinde.",
 
         "Sonra kapıdan çıktı.",
 
@@ -301,7 +301,7 @@ window.TUZ.entries.push({
 
         "Kilidi açtı. İçeri girdi.",
 
-        "İçerisi soğuktu yine. Numaralı çekmeceler duvar boyu, çoğu boş, bir-iki içinde yarım tuz kalmış. Köşede bir küçük tabak. Yere yarım eski bir keten parça düşmüş — Reha onu bir önceki ziyaretinden hatırladı, yerine koymadı tam, yine düşmüştü.",
+        "İçerisi soğuktu yine. Numaralı çekmeceler duvar boyu, çoğu boş, bir-iki içinde yarım tuz kalmış. Köşede bir küçük tabak. Yere eski bir keten parça düşmüş — Reha onu bir önceki ziyaretinden hatırladı, yerine koymadı tam, yine düşmüştü.",
 
         "Reha duvar kenarındaki taşa oturdu — bir küçük taş çıkıntısı vardı duvarın orta yerinde, oturmak için yıllarca kullanılmış. Bir Tuzcunun çalışma molası için belki — annesinin annesi belki yıllar önce oraya oturmuştu, dinlenmek için. Reha şimdi oturuyordu.",
 
@@ -317,7 +317,7 @@ window.TUZ.entries.push({
 
         "Sonra ayağa kalktı. Kapıyı kapadı. Kilidi çevirdi. Anahtarı cebine geri koydu.",
 
-        "Bahçeden geçti yine — nane köşesi yarım ayağıyla değdi. Bir küçük yaprak parçası kopmadı tam — sadece kıpırdadı.",
+        "Bahçeden geçti yine — nane köşesi ayağıyla değdi. Bir küçük yaprak parçası kopmadı tam — sadece kıpırdadı.",
 
         "Eve girdi yine. Mutfak masasına oturdu.",
 

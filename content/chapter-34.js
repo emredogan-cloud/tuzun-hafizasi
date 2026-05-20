@@ -19,7 +19,7 @@ window.TUZ.entries.push({
     content: [
         "Salı öğleden sonra. Reha Kerâli'den döndüğünden bir gün geçmişti — gece yağmur durmadan yağmıştı, sabah daha hâlâ ıslaktı sokak. Nahide gelmemişti henüz bu sabah — Lemi gece yorgunlaşmıştı belki, Nahide Tuzhane'de bırakmıştı bu sabahı.",
 
-        "Reha tek başına. Kahvaltı yarım yapmıştı — bir parça ekmek, çay, bir-iki dakika mutfak masasında. Sonra salona geçti. Sobada ateş yaktı — soba yarım sıcaktı dünden, az kömür koydu yine.",
+        "Reha tek başına. Kahvaltı yapmıştı — bir parça ekmek, çay, bir-iki dakika mutfak masasında. Sonra salona geçti. Sobada ateş yaktı — soba sıcaktı dünden, az kömür koydu yine.",
 
         "Bedeninde bir başka şey vardı bu sabah. Bir yerleşmeme. Defter gitmişti Kerâli'ye dün — Reha bunu bedeninde kabul etmişti yarım, ama yatak altındaki boş aralık hâlâ ona söylüyordu bir şeyi: bir yer boş bırakıldı, başka bir yer dolu kaldı.",
 
@@ -69,7 +69,7 @@ window.TUZ.entries.push({
 
         "Açtı.",
 
-        "İlhan'ın el yazısıydı — Reha onu tanıyordu yıllar öncesinden, çocuk yazısından, askerî dönüştürmesinden. Şimdi yine: küçük, dik, hızlı yazılmış. Mürekkep koyu yarım — bir çabuk yazıydı belki, bir-iki dakikada.",
+        "İlhan'ın el yazısıydı — Reha onu tanıyordu yıllar öncesinden, çocuk yazısından, askerî dönüştürmesinden. Şimdi yine: küçük, dik, hızlı yazılmış. Mürekkep koyu — bir çabuk yazıydı belki, bir-iki dakikada.",
 
         "Üç-dört satır.",
 
@@ -83,7 +83,7 @@ window.TUZ.entries.push({
 
         "Reha kâğıdı okudu bir kez. Bir kez daha — yavaş, sözcükleri içeride yerleştirmek için. Bedeninde küçük bir titreme yarım — dış değil, iç. İlhan'ın sesi vardı bu cümlelerde, kuru, alçak, askeri olmadan tam askerî. \"Senin işin artık.\" Bu cümle Lemi'nin söylediği başka bir şeye benziyordu — \"Sen kararını ver,\" \"Senin işin.\" İki adam benzer şeyler söylüyordu farklı koridorlarından.",
 
-        "Notu yan kenara koydu yarım.",
+        "Notu yan kenara koydu.",
 
         { style: "hr" },
 
@@ -93,17 +93,17 @@ window.TUZ.entries.push({
 
         "İçeride bir tane — küçük, beyaz, sıradan görünüyordu. Reha onu eline almadı henüz — yatay tuttu katlama kapağında, baktı bir an. Yatak başında mum vardı — bir küçük yarım yanmış mum, gece için. Onu yakacaktı belki çizgi görmek için. Şimdi yakmadı henüz.",
 
-        "İkinci katlama. Açtı. Bir başka tane — boyutu birinciye benzer, biçimi yarım farklı. Tuz kristali doğal olarak farklı biçimlerde oluşurdu — Reha bunu Lemi'den öğrenmişti aylar önce.",
+        "İkinci katlama. Açtı. Bir başka tane — boyutu birinciye benzer, biçimi farklı. Tuz kristali doğal olarak farklı biçimlerde oluşurdu — Reha bunu Lemi'den öğrenmişti aylar önce.",
 
         "Üçüncü katlama. Açtı. Bir başka tane yine. Bu sefer biraz daha küçük — bir parça daha. Belki bir başka mevsim, belki bir başka kıyıdan.",
 
-        "Üç tane yan yana — Reha onları masaya koydu yarım, küçük bir keten parçanın üstüne. Üçüne baktı bir-iki dakika.",
+        "Üç tane yan yana — Reha onları masaya koydu, küçük bir keten parçanın üstüne. Üçüne baktı bir-iki dakika.",
 
         "Üçü de okunabilir miydi — rüh-çizgileri var mıydı? Bilemezdi tam alev olmadan. Mum yakacaktı bir-iki dakika içinde.",
 
         { style: "hr" },
 
-        "Bedeninde bir an boyunca bir karar büyüdü yarım — bu üç taneyi kim okuyacaktı? Hangisi okunacaktı?",
+        "Bedeninde bir an boyunca bir karar büyüdü — bu üç taneyi kim okuyacaktı? Hangisi okunacaktı?",
 
         "Lemi söylemişti yıllar önce bir kez ve geçen hafta yine: bir tane bir kez okunur, ikinci kez okumak silikleştirir. Üç tane = üç okuma fırsatı. Birini Reha okuyabilirdi — birini Lemi okuyabilirdi (hâlâ yapabiliyorsa), birini Nahide okuyabilirdi belki bir gün.",
 
@@ -131,7 +131,7 @@ window.TUZ.entries.push({
 
         "Reha bu cümleyi içinde tuttu.",
 
-        "Bedeninde bir başka şey vardı yine — yine küçük, yine bir titreme değil tam. \"Senin işin\" cümlesi İlhan'ın kendi yarısını söylüyordu yarım: o adam, kendi annesinin tanesini yıllarca saklamıştı, bedeninde bir kayıt taşımıştı, hiç açmamıştı belki. Şimdi onu Reha'ya bırakmıştı. \"Senin işin artık\" — yani \"benim işim değil artık.\" İlhan bedenini bu taneden yavaşça çekiyordu, bir başka şehre giderken bedeninin bir parçasını burada bırakıyordu.",
+        "Bedeninde bir başka şey vardı yine — yine küçük, yine bir titreme değil tam. \"Senin işin\" cümlesi İlhan'ın kendi yarısını söylüyordu: o adam, kendi annesinin tanesini yıllarca saklamıştı, bedeninde bir kayıt taşımıştı, hiç açmamıştı belki. Şimdi onu Reha'ya bırakmıştı. \"Senin işin artık\" — yani \"benim işim değil artık.\" İlhan bedenini bu taneden yavaşça çekiyordu, bir başka şehre giderken bedeninin bir parçasını burada bırakıyordu.",
 
         "Bu bir veda değildi tam. \"Veda yok\" yazmıştı zaten notta. Bir başka şeydi — bir taşımanın bir başkasına geçişi. Lemi'nin Mâriye'nin defterini Reha'ya bırakması gibi. Cilâl'in kitabını Reha'ya vermesi gibi. Erol'un folio'yu Lemi'nin sandığına bırakması gibi.",
 
@@ -139,7 +139,7 @@ window.TUZ.entries.push({
 
         { style: "hr" },
 
-        "Notu yarım katladı yine. İçinde bir-iki saniye boyunca tuttu — bedeni karar veriyordu yine bir başka şey: notu üç taneyle beraber mi tutmak, ayrı mı tutmak.",
+        "Notu katladı yine. İçinde bir-iki saniye boyunca tuttu — bedeni karar veriyordu yine bir başka şey: notu üç taneyle beraber mi tutmak, ayrı mı tutmak.",
 
         "Karar verdi: ayrı.",
 
@@ -155,7 +155,7 @@ window.TUZ.entries.push({
 
         "Çekmeceyi açtı yine yatak yanındaki küçük ahşap çekmece. Üç-dört kez paket çekmecede kalmıştı zaten son üç hafta; şimdi yine oraya gidecekti — ama farklı bir niyetle bu sefer. Bir bilgi olarak, bir kayıt olarak değil.",
 
-        "Paketi çekmeceye yerleştirdi yarım.",
+        "Paketi çekmeceye yerleştirdi.",
 
         "Sonra durdu.",
 
@@ -171,7 +171,7 @@ window.TUZ.entries.push({
 
         "Reha aşağıya indi.",
 
-        "Salonda kutuyu eline aldı — raf üstünde. Açtı. İçeride yalnızca toz vardı yarım — örtüyü yarım kaldırdı, sildi içi yarım bir bezle.",
+        "Salonda kutuyu eline aldı — raf üstünde. Açtı. İçeride yalnızca toz vardı — örtüyü kaldırdı, sildi içi bir bezle.",
 
         "Üç tanenin paketini kutuya koydu.",
 
@@ -183,9 +183,9 @@ window.TUZ.entries.push({
 
         { style: "hr" },
 
-        "Sandalyeye salonda oturdu yine. Soba ısınmıştı yarım.",
+        "Sandalyeye salonda oturdu yine. Soba ısınmıştı.",
 
-        "İlhan'ın notunun cümlelerini içinde tekrarladı yarım. \"Senin işin artık.\" Lemi'nin bir-iki gün önce söylediği yine: \"Bu iş senin.\" İki adam, iki ayrı sözlü emanet. Her ikisi de gidiyor — Lemi ölmek üzere, İlhan ayrılmış. Bedenleri çekiliyordu yavaşça, Reha'ya bir şey bırakıyorlardı.",
+        "İlhan'ın notunun cümlelerini içinde tekrarladı. \"Senin işin artık.\" Lemi'nin bir-iki gün önce söylediği yine: \"Bu iş senin.\" İki adam, iki ayrı sözlü emanet. Her ikisi de gidiyor — Lemi ölmek üzere, İlhan ayrılmış. Bedenleri çekiliyordu yavaşça, Reha'ya bir şey bırakıyorlardı.",
 
         "Reha bir an boyunca düşündü: Cilâl Hala da bir şey bırakmıştı — Mâriye'nin defteri. Babası bir şey bırakmıştı — folio, deri defter, son tuzu. Annesi bir şey bırakmıştı — bir cümle, son söz, bir tortu. Lemi bir şey bırakacaktı yakında — Nahide, Tuzcu sandığı. İlhan bir şey bırakmıştı — üç tane, üç parça bedeni.",
 
@@ -197,17 +197,17 @@ window.TUZ.entries.push({
 
         "Saat on bir buçuğa yakındı. Reha sobanın yanından kalkmadı henüz.",
 
-        "Pencereden dışarıya baktı bir an. Yağmur durmuştu — gece yağmıştı çoğu, sabah yarım. Şimdi açık, bulutlu yine ama yağmıyordu. Bir-iki bulut yarım kıyıdan çıkıyordu doğuya.",
+        "Pencereden dışarıya baktı bir an. Yağmur durmuştu — gece yağmıştı çoğu, sabah biraz. Şimdi açık, bulutlu yine ama yağmıyordu. Bir-iki bulut kıyıdan çıkıyordu doğuya.",
 
         "Nahide gelir mi öğleden sonra — Reha bilmiyordu. Lemi'nin son haftadaki durumuna bağlıydı. Nahide gelirse Reha ona söylerdi: \"İlhan'ın paketi açıldı bu sabah. Üç tane var, raf üstündeki kutuda. Sen istersen oku bir gün. Lemi'ye söyleme şu an.\"",
 
         "Nahide kabul ederdi belli. Lemi'ye söyleme — Lemi'nin son zamanlarında ek bir yük olmazdı bu, ek bir karar gerektirmezdi. Lemi'nin bedeni öldürülmeye yakındı; üç tane bir başka adamın ailesinden Lemi'nin işi değildi artık.",
 
-        "Reha öğleden sonra düşünmedi tam. Şu an sobada bir sıcak vardı, üç tane raf üstünde bir kutuda, bir not yatak altında boş aralıkta. Yer yerini bulmuştu yarım.",
+        "Reha öğleden sonra düşünmedi tam. Şu an sobada bir sıcak vardı, üç tane raf üstünde bir kutuda, bir not yatak altında boş aralıkta. Yer yerini bulmuştu.",
 
         "Bir mektup belki gelir bir gün başka kasabadan — \"belki yazarım, belki yazmam\" İlhan demişti. Reha bir mektup beklemedi tam. \"Belki\" — bir veda değildi tam, bir kapı yarım açık bırakılmıştı.",
 
-        "Mektup gelirse cevap verirdi, gelmezse vermezdi. \"Senin işin artık\" — bu cümle bir mektubun gerekliliğini sıfırlamıştı yarım. İlhan zaten bir tek şey söylemişti söyleyebileceği kadarını. Bir başka şey eklemezse anlam değişmezdi.",
+        "Mektup gelirse cevap verirdi, gelmezse vermezdi. \"Senin işin artık\" — bu cümle bir mektubun gerekliliğini sıfırlamıştı. İlhan zaten bir tek şey söylemişti söyleyebileceği kadarını. Bir başka şey eklemezse anlam değişmezdi.",
 
         "Reha bedeninde bir kabul yerleştirdi yine.",
 
@@ -219,7 +219,7 @@ window.TUZ.entries.push({
 
         "Nahide.",
 
-        "Yüzü gergindi yarım — sabah yorgun bir gece sonrası belki, ya da bir başka şey.",
+        "Yüzü gergindi — sabah yorgun bir gece sonrası belki, ya da bir başka şey.",
 
         "— Lemi nasıl?",
 
@@ -227,7 +227,7 @@ window.TUZ.entries.push({
 
         "— Gece zordu yine. Sabah biraz daha iyi. Şimdi uyukluyor. Bir-iki saat bekleyecek beni belki. Sen geldin Kerâli'den dün, sormam gerekiyordu — onun için geldim.",
 
-        "— Geldim. Bıraktım defteri. Selâhattin Hoca aldı yarım — \"kabul edemem ama atmayacağım\" dedi. Kilitli çekmeceye koydu.",
+        "— Geldim. Bıraktım defteri. Selâhattin Hoca aldı — \"kabul edemem ama atmayacağım\" dedi. Kilitli çekmeceye koydu.",
 
         "Nahide başını eğdi. Bunu yorumlamadı tam — bir kabul.",
 
@@ -283,15 +283,15 @@ window.TUZ.entries.push({
 
         "Reha salonda kaldı yine.",
 
-        "Salon yarım dingindi. Sobanın küçük çıtırtısı vardı. Raf üstünde kutu — şimdi içinde üç tane. Reha kutuya baktı bir an, sonra başını çevirdi yine.",
+        "Salon dingindi. Sobanın küçük çıtırtısı vardı. Raf üstünde kutu — şimdi içinde üç tane. Reha kutuya baktı bir an, sonra başını çevirdi yine.",
 
-        "Bedeninde bir başka şey hissetti yine — bir hafiflik değildi tam, bir başka şey. Bir defterin gitmesi, bir paketin açılması, bir üç tanenin kutuya yerleşmesi, bir notun yatak altına gitmesi — dört küçük yer değişimi bir-iki günde. Beden bunu yarım yarım kabul ediyordu.",
+        "Bedeninde bir başka şey hissetti yine — bir hafiflik değildi tam, bir başka şey. Bir defterin gitmesi, bir paketin açılması, bir üç tanenin kutuya yerleşmesi, bir notun yatak altına gitmesi — dört küçük yer değişimi bir-iki günde. Beden bunu kabul ediyordu.",
 
-        "Lemi yakındaydı ölüm tarafında — Reha bunu bedeninde tuttu yine, Nahide'nin yüzüne bakmıştı, anlamıştı. Bir hafta, iki hafta, bir-iki gün belki. Bedeni hazırdı yarım — ya da hazır olduğunu kabul ediyordu yarım.",
+        "Lemi yakındaydı ölüm tarafında — Reha bunu bedeninde tuttu yine, Nahide'nin yüzüne bakmıştı, anlamıştı. Bir hafta, iki hafta, bir-iki gün belki. Bedeni hazırdı — ya da hazır olduğunu kabul ediyordu.",
 
         "Akşama doğru yine Tuzhane'ye gidecekti. Lemi'nin yanında bir-iki dakika oturacaktı belki, konuşmazlardı belki, sadece beraber bir-iki an.",
 
-        "Sobada bir kütük yarım yandı. Reha sandalyeyi sobaya yarım yaklaştırdı bir parça. Pencereden dışarıya baktı yine — bulutlar daha açık şimdi, bir-iki parça mavi gökyüzü doğuda. Ender bir parlaklık aralık ortası gibi.",
+        "Sobada bir kütük yandı. Reha sandalyeyi sobaya yaklaştırdı bir parça. Pencereden dışarıya baktı yine — bulutlar daha açık şimdi, bir-iki parça mavi gökyüzü doğuda. Ender bir parlaklık aralık ortası gibi.",
 
         "Reha o parlaklığa bir saniye baktı. Sonra başını çevirdi yine."
     ]

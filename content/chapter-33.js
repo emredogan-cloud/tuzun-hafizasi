@@ -34,7 +34,7 @@ window.TUZ.entries.push({
 
         { style: "hr" },
 
-        "Kerâli yolu bir buçuk saat sürdü. Sürücü konuşmadı çoğunlukla — bir-iki kez kasaba dışına dair, hava soğuk olacağına dair sözler. Reha cevap verdi yarım, başını eğdi yarım.",
+        "Kerâli yolu bir buçuk saat sürdü. Sürücü konuşmadı çoğunlukla — bir-iki kez kasaba dışına dair, hava soğuk olacağına dair sözler. Reha cevap verdi, başını eğdi.",
 
         "Pencereden tarlalar gri-kahverengi — Aralık ortası, ekim henüz yapılmamış kış için, eski mahsuller kesilmişti. Bir köprü, bir küçük dere, sonra Kerâli'nin dış mahallesi.",
 
@@ -90,11 +90,11 @@ window.TUZ.entries.push({
 
         "Reha kapıyı itti. İçeri girdi.",
 
-        "Oda küçüktü — bir-iki adımlık derinlik, bir-iki adımlık genişlik. Bir tek pencere arkada, gri öğleden sonra ışığı yarım içeri giriyordu. Duvarlar boyunca raflar — kahverengi deri ciltli kitaplar, ince defterler, dosya kutuları. Bir küçük gaz lambası tavanda asılı, yanıyordu yarım — pencereden gelen ışık tek başına yetmediği için belki.",
+        "Oda küçüktü — bir-iki adımlık derinlik, bir-iki adımlık genişlik. Bir tek pencere arkada, gri öğleden sonra ışığı içeri giriyordu. Duvarlar boyunca raflar — kahverengi deri ciltli kitaplar, ince defterler, dosya kutuları. Bir küçük gaz lambası tavanda asılı, yanıyordu yarım — pencereden gelen ışık tek başına yetmediği için belki.",
 
         "Selâhattin Hoca masada oturuyordu — bir orta yaşlı adam, beli ince, takım elbiseli (gri pantolon, koyu mavi ceket, açık gri kravat). Saçları kısa, kenarda yarım gri. Bir küçük gözlüğü vardı, camlar yuvarlak, ince çerçeve. Yüzünde bir nötrlük — Reha onu çıkarmaya çalıştı kapı eşiğinde, çıkaramadı tam: ne dostça, ne soğuk.",
 
-        "Selâhattin başını yarım kaldırdı — kalemi elindeydi, masada bir-iki belge açıktı. Bir-iki saniye Reha'nın yüzünü çıkardı belki. Sonra:",
+        "Selâhattin başını kaldırdı — kalemi elindeydi, masada bir-iki belge açıktı. Bir-iki saniye Reha'nın yüzünü çıkardı belki. Sonra:",
 
         "— Reha Sezerân.",
 
@@ -104,7 +104,7 @@ window.TUZ.entries.push({
 
         "Reha karşıdaki sandalyeye oturdu — küçük ahşap sandalye, eski. Hırkasını çıkarmadı — odada soğuk yoktu tam, ama bir bedeni saklamak isterken bir hırka iyiydi.",
 
-        "Selâhattin kalemini bıraktı. Önündeki belgeleri yan tarafa çekti yarım — yer açtı masada.",
+        "Selâhattin kalemini bıraktı. Önündeki belgeleri yan tarafa çekti — yer açtı masada.",
 
         "Sonra:",
 
@@ -120,7 +120,7 @@ window.TUZ.entries.push({
 
         "Bir an.",
 
-        "Selâhattin gözlüğünü yarım çıkardı, bir cebinden ince bir bezle camları siliyor yarım sildi. Bir-iki saniyelik bir hareket — bedenin küçük bir kaçınması belki, ya da bir alışkanlık.",
+        "Selâhattin gözlüğünü çıkardı, bir cebinden ince bir bezle camları siliyor yarım sildi. Bir-iki saniyelik bir hareket — bedenin küçük bir kaçınması belki, ya da bir alışkanlık.",
 
         "Geri taktı gözlüğü.",
 
@@ -154,7 +154,7 @@ window.TUZ.entries.push({
 
         "— Sezerân ailesinin — kısmen. Vâliçe ve çevresinde bir-iki başka adın. Sicil Düzeltmeleri Komisyonu'nun kararlarından bazıları. Tuzcu geleneğine ait birkaç ad. On bir sayfa. Yaklaşık on iki ad — bir-iki ek not var.",
 
-        "Selâhattin başını yarım eğdi.",
+        "Selâhattin başını eğdi.",
 
         "— Defter babanızın mı?",
 
@@ -172,15 +172,15 @@ window.TUZ.entries.push({
 
         "Reha kapağı yarım açtı. İlk sayfa — \"Defne Mâriye Sezerân. 1902-1906. Vâliçe. Tifo. Annemin kızı; benim ablam.\"",
 
-        "Selâhattin gözlüğünü yarım indirdi — okumak için belki, daha iyi bakmak için. Sayfaya baktı bir-iki saniye. Cümleyi okudu sessizce.",
+        "Selâhattin gözlüğünü indirdi — okumak için belki, daha iyi bakmak için. Sayfaya baktı bir-iki saniye. Cümleyi okudu sessizce.",
 
-        "Sonra başını yarım kaldırdı.",
+        "Sonra başını kaldırdı.",
 
         "— Ablanız.",
 
         "— Ablam.",
 
-        "Bir an. Selâhattin başını yarım çevirdi pencereye — bir-iki saniye. Sonra geri Reha'ya.",
+        "Bir an. Selâhattin başını çevirdi pencereye — bir-iki saniye. Sonra geri Reha'ya.",
 
         "— Komisyon kararı vardı.",
 
@@ -208,11 +208,11 @@ window.TUZ.entries.push({
 
         { style: "hr" },
 
-        "Bir tereddüt vardı oturuşunda. Reha onu fark etti — Selâhattin'in beden hareketi yavaşladı yarım. Bedeninde bir karar büyütüyordu belki. Ya bir karar üzerinde tereddüt ediyordu.",
+        "Bir tereddüt vardı oturuşunda. Reha onu fark etti — Selâhattin'in beden hareketi yavaşladı. Bedeninde bir karar büyütüyordu belki. Ya bir karar üzerinde tereddüt ediyordu.",
 
         "Reha sessizdi.",
 
-        "Selâhattin başını yarım eğdi sonunda.",
+        "Selâhattin başını eğdi sonunda.",
 
         "Konuştu — yine kuru ses, ama bir parça daha alçak.",
 
@@ -222,7 +222,7 @@ window.TUZ.entries.push({
 
         "— Bunu kabul edemem.",
 
-        "Reha bunu bekliyordu yarım. Beklediği ilk cevap. Cevap vermedi şu an.",
+        "Reha bunu bekliyordu. Beklediği ilk cevap. Cevap vermedi şu an.",
 
         "Selâhattin devam etti:",
 
@@ -240,13 +240,13 @@ window.TUZ.entries.push({
 
         "Reha bunu duydu.",
 
-        "Selâhattin başını yarım eğdi. Önündeki masaya gözünü çevirdi — sağ tarafında bir küçük dolap vardı, masanın üst kenarına gömülü. İki çekmece. Üstteki açıktı — bir-iki belge görünüyordu. Alttaki kapalıydı — bir kilit yarım, bir küçük anahtar deliği.",
+        "Selâhattin başını eğdi. Önündeki masaya gözünü çevirdi — sağ tarafında bir küçük dolap vardı, masanın üst kenarına gömülü. İki çekmece. Üstteki açıktı — bir-iki belge görünüyordu. Alttaki kapalıydı — bir kilit, bir küçük anahtar deliği.",
 
         "Selâhattin cebine elini koydu. Bir küçük anahtar çıkardı — küçük, eski tip, pirinç renginde. Çekmecenin altındaki kilide yerleştirdi. Çevirdi.",
 
         "Çekmece açıldı.",
 
-        "İçi yarı doluydu — birkaç başka belge, bir-iki katlanmış kâğıt, bir küçük deri çantanın yarım görünen kıyısı. Selâhattin yan tarafa yer açtı yarım — bir-iki belgeyi yana itti.",
+        "İçi yarı doluydu — birkaç başka belge, bir-iki katlanmış kâğıt, bir küçük deri çantanın yarım görünen kıyısı. Selâhattin yan tarafa yer açtı — bir-iki belgeyi yana itti.",
 
         "Reha'nın defterini eline aldı — keten parçayla. Çekmeceye yerleştirdi yan tarafa. Keten parça defterin etrafına sarılı kaldı.",
 
@@ -276,7 +276,7 @@ window.TUZ.entries.push({
 
         "Reha bunu duydu.",
 
-        "Selâhattin bunu bir cümleyi söyledikten sonra durdu — bir sandalyeden duraksamış, bir-iki saniye yine pencereye yarım çevrilmiş başı.",
+        "Selâhattin bunu bir cümleyi söyledikten sonra durdu — bir sandalyeden duraksamış, bir-iki saniye yine pencereye çevrilmiş başı.",
 
         "Sonra:",
 
@@ -294,13 +294,13 @@ window.TUZ.entries.push({
 
         "— Sağol, dedi.",
 
-        "Selâhattin başını eğdi yarım.",
+        "Selâhattin başını eğdi.",
 
         "— Sağol değil. Yolculuk iyi geçsin Vâliçe'ye. Hava bozuluyor öğleden sonra — sürücüyle erken çıkmaya çalışın.",
 
         "— Çalışırım.",
 
-        "Reha kapıya yöneldi. Tam çıkmadan önce duraksadı yarım — bir cümle daha söylemek istedi belki, bir cevap almak için. Söylemedi.",
+        "Reha kapıya yöneldi. Tam çıkmadan önce duraksadı — bir cümle daha söylemek istedi belki, bir cevap almak için. Söylemedi.",
 
         "Çıktı.",
 
@@ -308,7 +308,7 @@ window.TUZ.entries.push({
 
         { style: "hr" },
 
-        "Merdivenden indi. Alt katta hold'deki memur başını yarım kaldırdı — bir küçük selam. Reha karşılık verdi yarım.",
+        "Merdivenden indi. Alt katta hold'deki memur başını kaldırdı — bir küçük selam. Reha karşılık verdi.",
 
         "Sokağa çıktı.",
 
@@ -320,17 +320,17 @@ window.TUZ.entries.push({
 
         "— Hava bulutlanıyor batıdan. Önce ben de düşünüyordum dönüşü erkene almak. Birkaç dakika içinde çıkarız.",
 
-        "Reha at arabasına bindi yarım.",
+        "Reha at arabasına bindi.",
 
         { style: "hr" },
 
-        "Yokuşu yukarı yine — Vâliçe yönüne. Yarım saat sonra yağmur başladı — ince, ama ısrarcı. Pencerelerden hava içeri giriyordu yarım. Reha pelerinini yarım çekti üstüne.",
+        "Yokuşu yukarı yine — Vâliçe yönüne. Yarım saat sonra yağmur başladı — ince, ama ısrarcı. Pencerelerden hava içeri giriyordu. Reha pelerinini çekti üstüne.",
 
-        "Cebinde defter yoktu. Boş bir yer vardı şimdi hırkanın iç cebinde — bir aydır oradaydı bir defter; şimdi başka bir yerdeydi. Bedeni o boşluğu yarım fark etti — yokluk fiziksel bir gerçekti.",
+        "Cebinde defter yoktu. Boş bir yer vardı şimdi hırkanın iç cebinde — bir aydır oradaydı bir defter; şimdi başka bir yerdeydi. Bedeni o boşluğu fark etti — yokluk fiziksel bir gerçekti.",
 
         "Reha pencereden dışarıya baktı — tarlalar bulutlu, gri-kahverengi yine. Bir-iki kez aynı tarlayı bir önceki haftalardan da görmüştü. Yine.",
 
-        "Bir cümle bedeninde dolaşıyordu yarım — Selâhattin'in cümlesi: \"Belki bir gün, başka bir devirde, başka biri açar.\" Bu cümle bir cevap değildi tam — bir bekleyiş. Bir başka devir. Bir başka biri. Belirsiz, ertelenmiş.",
+        "Bir cümle bedeninde dolaşıyordu — Selâhattin'in cümlesi: \"Belki bir gün, başka bir devirde, başka biri açar.\" Bu cümle bir cevap değildi tam — bir bekleyiş. Bir başka devir. Bir başka biri. Belirsiz, ertelenmiş.",
 
         "Reha bu erteleneyi protestoz kabul etti — yolun başında, Kerâli'nin sokağında, Selâhattin'in odasında, çekmecenin kapanma sesinde. \"Sadece zamanı doğru.\" Reha kendi zamanını da \"doğru olmadığını\" kabul ediyordu. Bir gün bir başkasının zamanı doğru olur belki. O başka biri olmazdı Reha — Reha yıllar sonra hâlâ yaşıyor olsa bile, defter onun değildi artık. Bir başkasına emanet edildi. Selâhattin'in çekmecesinde, anahtarın küçük tıkırtısıyla.",
 
@@ -344,7 +344,7 @@ window.TUZ.entries.push({
 
         "Reha eve girdiğinde içerisi sessizdi. Nahide bu sabah Tuzhane'ye gitmişti — Reha ona söylemişti dünden, \"Kerâli'ye gideceğim Pazartesi, sen Lemi'nin yanında ol bütün gün.\" Nahide kabul etmişti.",
 
-        "Salonu yarım dolaştı. Mâra'nın koltuğu yine boştu. Babasının çalışma odasının kapısı yarım açıktı — bu sabah orayı yarım açmıştı belki, hatırlamadı tam. Kapadı şimdi yine.",
+        "Salonu dolaştı. Mâra'nın koltuğu yine boştu. Babasının çalışma odasının kapısı yarım açıktı — bu sabah orayı yarım açmıştı belki, hatırlamadı tam. Kapadı şimdi yine.",
 
         "Mutfağa girdi. Bir bardak su koydu. İçti. Hırkasını çıkardı bir sandalyenin arkasına astı.",
 
@@ -356,14 +356,14 @@ window.TUZ.entries.push({
 
         "Reha bir an düşündü: bir başka şey saklamaya başlayabilirdi orada bir gün. Bir başka defter, bir başka kayıt, bir başka şey. Bu tahta bir yer olarak kalırdı — bedenin biliyordu artık.",
 
-        "Aşağıya indi. Sobada ateş yarım yandı — sabah Reha yakmadan önce çıkmıştı, soba sönmüştü çoktan. Yeniden yaktı.",
+        "Aşağıya indi. Sobada ateş yandı — sabah Reha yakmadan önce çıkmıştı, soba sönmüştü çoktan. Yeniden yaktı.",
 
         "Akşam yaklaşıyordu. Nahide muhtemelen Tuzhane'de kalırdı bu gece — Lemi yorgundu, Nahide yanında olurdu. Reha tek başına olurdu evde — bir başka tek başınalık.",
 
-        "Defter gitmişti. Bedeni bunu yarım kabul etti — bir alışkanlığın çekilmesi, bir kayıt biçiminin başkasının çekmecesine geçmesi. Selâhattin'in cümlesi: \"Bir alışkanlık olmaya devam eder.\" Lemi de benzer söylemişti dün — \"defteri kayıt olarak sürdür.\" Defter şimdi başka birinin çekmecesinde, ama Reha yine yazardı bir başka defterde belki bir gün — daha küçük, daha kişisel, daha az resmi.",
+        "Defter gitmişti. Bedeni bunu kabul etti — bir alışkanlığın çekilmesi, bir kayıt biçiminin başkasının çekmecesine geçmesi. Selâhattin'in cümlesi: \"Bir alışkanlık olmaya devam eder.\" Lemi de benzer söylemişti dün — \"defteri kayıt olarak sürdür.\" Defter şimdi başka birinin çekmecesinde, ama Reha yine yazardı bir başka defterde belki bir gün — daha küçük, daha kişisel, daha az resmi.",
 
         "Yazardı belki. Bu da bir karar değildi tam — bir bedensel olasılık.",
 
-        "Reha sobanın yanına bir sandalye çekti. Oturdu. Hava ısınmaya başladı yarım. Yağmur dışarda yarım devam ediyordu, pencereye küçük seslerle vuruyordu."
+        "Reha sobanın yanına bir sandalye çekti. Oturdu. Hava ısınmaya başladı. Yağmur dışarda devam ediyordu, pencereye küçük seslerle vuruyordu."
     ]
 });

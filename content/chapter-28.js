@@ -99,7 +99,7 @@ window.TUZ.entries.push({
 
         "Asker yan tarafa, halıya bakıyordu — halının kıyısını kaldırdı yarım. Altta bir şey yoktu. Halıyı yine yerine koydu.",
 
-        "Tezcan başını eğdi. Çalışma odasında bitirmişti.",
+        "Tezcan onayladı. Çalışma odasında bitirmişti.",
 
         { style: "hr" },
 

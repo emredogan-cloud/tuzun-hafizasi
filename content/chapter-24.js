@@ -69,7 +69,7 @@ window.TUZ.entries.push({
 
         "— Anladım.",
 
-        "İlhan başını eğdi de.",
+        "İlhan onayladı.",
 
         { style: "hr" },
 
@@ -255,7 +255,7 @@ window.TUZ.entries.push({
 
         "— Yapabilirim.",
 
-        "Lemi başını eğdi de.",
+        "Lemi onu doğruladı.",
 
         "— Anladım. Şimdi git, evine. Bu gece üç. Görüşürüz.",
 

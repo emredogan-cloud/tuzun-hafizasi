@@ -20,7 +20,7 @@ window.TUZ.entries.push({
     content: [
         "Cenaze ertesi gün öğleden sonra oldu.",
 
-        "Sabah erken Cilâl Hala geldi — postacı arabasıyla Kerâli'den. Reha kapıyı açtığında Cilâl elinde küçük bir bez torba ile durmuştu, yağmurun ardından gelen ince nemde. Yüzü hareketsizdi tam — bir ağlama yoktu yüzünde, ama bir kuruluk da yoktu. Bir gözünü oda lambasına çevirdi bir an, sonra Reha'ya:",
+        "Sabah erken Cilâl Hala geldi — postacı arabasıyla Kerâli'den. Reha kapıyı açtığında Cilâl elinde küçük bir bez torba ile durmuştu, yağmurun ardından gelen ince nemde. Yüzü hareketsizdi — bir ağlama yoktu yüzünde, ama bir kuruluk da yoktu. Bir gözünü oda lambasına çevirdi bir an, sonra Reha'ya:",
 
         "— Reha.",
 
@@ -64,7 +64,7 @@ window.TUZ.entries.push({
 
         "Tam bu sırada Reha hırkasının iç cebine elini koydu.",
 
-        "Bir küçük dal — sabah erken bahçeye inmişti, defne ağacının bir küçük dalı vardı arka duvara yakın (Mâra yıllar önce dikmişti, hâlâ büyüyordu yarım), Reha bir küçük dal kesmişti makasla. İçeride saklamıştı hırkasında, kimseye söylemeden.",
+        "Bir küçük dal — sabah erken bahçeye inmişti, defne ağacının bir küçük dalı vardı arka duvara yakın (Mâra yıllar önce dikmişti, hâlâ büyüyordu), Reha bir küçük dal kesmişti makasla. İçeride saklamıştı hırkasında, kimseye söylemeden.",
 
         "Şimdi onu çıkardı. Bir kuru defne yaprağı — yarısı solgun yeşil, yarısı kahverengi (kış mevsimine girdiğinden), bir kısa ince dal.",
 
@@ -82,13 +82,13 @@ window.TUZ.entries.push({
 
         { style: "hr" },
 
-        "Toprak yarım yığıldığında Levent Amca durdu — küreği dirseğine astı, alnına eli koydu yarım. \"Bir dakika.\" Yine eğildi, bir-iki kürek daha. Mehmet de.",
+        "Toprak yarım yığıldığında Levent Amca durdu — küreği dirseğine astı, alnına eli koydu. \"Bir dakika.\" Yine eğildi, bir-iki kürek daha. Mehmet de.",
 
         "Cilâl Hala bir adım Reha'ya yakın geldi. Sesi alçaktı.",
 
         "— Bir gün anlatırsın bana mezarın üstüne ne koyduğunu.",
 
-        "Reha cevap vermedi şu an. Bir an boyunca başını yarım Cilâl'in yanına eğdi.",
+        "Reha cevap vermedi şu an. Bir an boyunca başını Cilâl'in yanına eğdi.",
 
         "Cilâl başını da Reha'nın omzuna yarım yasladı bir an. Bedenler değmedi tam — ama yakındılar.",
 
@@ -124,7 +124,7 @@ window.TUZ.entries.push({
 
         "Reha bunu duydu. Bir cevap vermedi.",
 
-        "Cilâl başını yarım eğdi. Hırkasını yine giydi. Mehmet'le beraber kapıdan çıktılar — postacı arabası sokağın ucunda bekliyordu.",
+        "Cilâl başını eğdi. Hırkasını yine giydi. Mehmet'le beraber kapıdan çıktılar — postacı arabası sokağın ucunda bekliyordu.",
 
         "Reha onları yokuşun yukarısından bir an izledi — Cilâl arabaya bindi, Mehmet sürücüye geçti, at hareket etti. Bir-iki dakika sonra Cilâl Hala kayboldu yokuş kıvrımının arkasından.",
 
@@ -166,13 +166,13 @@ window.TUZ.entries.push({
 
         "İçerisi farklıydı.",
 
-        "Defter masada değildi — yan kenara çekilmişti, kapanık. Lemi'nin lambası yanıyordu yarım — günlerde yanmazdı normalde, bugün yanıyordu.",
+        "Defter masada değildi — yan kenara çekilmişti, kapanık. Lemi'nin lambası yanıyordu — günlerde yanmazdı normalde, bugün yanıyordu.",
 
-        "Lemi masada oturuyordu, ama bir parça farklı — sandalyenin arkalığına yarım yaslanmıştı, dik değildi tam. Sırtının küçük bir kavisi vardı son haftada gözükmüştü, daha şimdi belirgindi. Yüzü açıkçaydı yarım, ama daha çekikti yanaklarda.",
+        "Lemi masada oturuyordu, ama bir parça farklı — sandalyenin arkalığına yaslanmıştı, dik değildi tam. Sırtının küçük bir kavisi vardı son haftada gözükmüştü, daha şimdi belirgindi. Yüzü açıkçaydı, ama daha çekikti yanaklarda.",
 
         "Reha bunu fark etti kapı eşiğinde.",
 
-        "Lemi başını çevirdi yarım. Bir parça gülümseme yarım — yanlış kelime, bir kabul belki:",
+        "Lemi başını çevirdi. Bir parça gülümseme — yanlış kelime, bir kabul belki:",
 
         "— Geldin. Cenaze nasıldı?",
 
@@ -184,13 +184,13 @@ window.TUZ.entries.push({
 
         "Reha karşıdaki sandalyeye oturmadan önce odanın orta yerine geçti. Pencerenin önüne. Bir şey vardı orada — Reha gözüyle tutmuştu içeri girer girmez, ama yaklaşmadı tam.",
 
-        "Bir küçük beyaz balmumu kase. Pencerenin önündeki rafta. İçinde su — Reha biliyordu, kokladan, sahil suyu, deniz suyu. Saf değildi tam — bir kıyıdan alınmış, küçük taneler içinde yarım. Güneşte duruyordu — soluk kasım sonu güneşi pencereden zar zor giriyordu, ama içeri girdiği kadar yere düşüyordu kaseye. Kasenin kenarına yarım, bir küçük başlangıç tuz kristali oluşmuştu — bir günden beri belki, iki günden, üçten.",
+        "Bir küçük beyaz balmumu kase. Pencerenin önündeki rafta. İçinde su — Reha biliyordu, kokladan, sahil suyu, deniz suyu. Saf değildi tam — bir kıyıdan alınmış, küçük taneler içinde. Güneşte duruyordu — soluk kasım sonu güneşi pencereden zar zor giriyordu, ama içeri girdiği kadar yere düşüyordu kaseye. Kasenin kenarına yarım, bir küçük başlangıç tuz kristali oluşmuştu — bir günden beri belki, iki günden, üçten.",
 
         "Reha bunu görmüştü kanon olarak — Lemi'den okumuştu, Lemi yıllar önce bir başka Tuzcu'nun ölümünü anlatırken söylemişti: \"Bir Tuzcu kendi tuzunu kendi yetiştirir. Ölüm geldiğinde tane hazır olur.\" Şimdi Reha bunu görüyordu yaşayan bir adamın hazırlığı olarak.",
 
-        "Reha pencereden geri döndü yarım. Lemi'nin yüzüne baktı.",
+        "Reha pencereden geri döndü. Lemi'nin yüzüne baktı.",
 
-        "Lemi de pencereye yarım çevirdi başını. Sonra geri Reha'ya.",
+        "Lemi de pencereye çevirdi başını. Sonra geri Reha'ya.",
 
         "— Bunu görmen iyi, dedi. Açıklamayı kısa tutarım — kendi tuzumu yetiştiriyorum şimdi. Bu kış geçirmem. Hazırlığımı yapıyorum. Hatta belki Aralık'ı bitirmem — bilemem tam.",
 
@@ -200,7 +200,7 @@ window.TUZ.entries.push({
 
         "— Anlıyorum.",
 
-        "Lemi başını eğdi yarım.",
+        "Lemi başını eğdi.",
 
         "— Otur.",
 
@@ -216,7 +216,7 @@ window.TUZ.entries.push({
 
         "Reha başını eğdi.",
 
-        "Lemi başını yarım çevirdi köşeye — bir küçük ahşap sandık vardı duvar yanında, Reha onu da daha önce görmüştü ama dikkat etmemişti. Şimdi gördü. Sandık daha büyüktü — bir-iki Bölüm yirmi beşte mağaraya taşınanlardan daha büyük.",
+        "Lemi başını çevirdi köşeye — bir küçük ahşap sandık vardı duvar yanında, Reha onu da daha önce görmüştü ama dikkat etmemişti. Şimdi gördü. Sandık daha büyüktü — bir-iki Bölüm yirmi beşte mağaraya taşınanlardan daha büyük.",
 
         "— Şuradaki sandık, dedi Lemi. Tuzcular'ın iki yüz yıllık defterleri içeride — kayıtlar, ad listeleri, tane sicilleri. Mâriye'nin de oradaydı bir parça — ama onu Cilâl yıllar önce ayırmış, sen bilirsin şimdi. Bu sandık Suhâl Nine'nin saklamış olduğu kayıtlar — kendisi bana verdi geçen yıl, dedi ki \"benden sonra senin.\" Şimdi benden sonra senin.",
 
@@ -234,7 +234,7 @@ window.TUZ.entries.push({
 
         { style: "hr" },
 
-        "Bir an daha sustular. Sobada bir kütük yarım yandı — küçük bir cıvıltı.",
+        "Bir an daha sustular. Sobada bir kütük yandı — küçük bir cıvıltı.",
 
         "Sonra Lemi devam etti — daha alçak.",
 
@@ -260,7 +260,7 @@ window.TUZ.entries.push({
 
         "— Pozisyonu zaten kaybettim — yedi gün önce deadline geçti. Cevap göndermedim. Şubat başında kayıt kapanır — \"kayıp pozisyon\" diye geçer. Başkent benim için bir başka kapı olur, ama yeniden açılması bir-iki yıl alabilir — bir başvuru, bir bekleyiş.",
 
-        "Lemi başını eğdi yarım. Bunu önceden bilmiyordu belki, ama şaşırmadı.",
+        "Lemi başını eğdi. Bunu önceden bilmiyordu belki, ama şaşırmadı.",
 
         "— Demek karar verdin.",
 
@@ -300,7 +300,7 @@ window.TUZ.entries.push({
 
         "— Cuma sabah.",
 
-        "Lemi başını eğdi yarım. Ayağa kalkmadı.",
+        "Lemi başını eğdi. Ayağa kalkmadı.",
 
         "Reha kapıdan çıktı. Sokakta bir an durdu — sonra yokuştan yukarı, sahil yolundan eve.",
 
@@ -310,7 +310,7 @@ window.TUZ.entries.push({
 
         "Salon dingindi. Mâra'nın koltuğu boştu — bir yarım buruşuk battaniye omuzluk hâlâ üstüne çekiliydi, gece geçmiş gibi.",
 
-        "Reha o koltuğa oturmadı. Bir başka koltuğa oturdu yarım, sonra kalktı yine, mutfağa geçti, bir bardak su koydu, içti, geri salona döndü.",
+        "Reha o koltuğa oturmadı. Bir başka koltuğa oturdu, sonra kalktı yine, mutfağa geçti, bir bardak su koydu, içti, geri salona döndü.",
 
         "Üst kata çıktı.",
 
@@ -336,7 +336,7 @@ window.TUZ.entries.push({
 
         { style: "quote", text: "1872-1924. Vâliçe. Mâriye Halife'nin kızı. Erol Sezerân'ın eşi. Reha'nın annesi. Defne Mâriye'nin annesi. Yıllarca yarım hatırladı, yarım sustu. Son söz: \"Affedilecek bir şey mi var?\" Bugün toprak verildi babanın yanına. Defne dalı bıraktım." },
 
-        "Reha kalemi bıraktı bir an. Cümle bir başka cümleydi defterindeki diğer cümlelere göre — bir-iki kelime fazla, bir kuruluk yarım. Ama yazmıştı şimdi, geri silmedi.",
+        "Reha kalemi bıraktı bir an. Cümle bir başka cümleydi defterindeki diğer cümlelere göre — bir-iki kelime fazla, bir kuruluk. Ama yazmıştı şimdi, geri silmedi.",
 
         "Sayfa dokuza geçti.",
 
