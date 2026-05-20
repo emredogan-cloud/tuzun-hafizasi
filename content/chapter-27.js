@@ -23,17 +23,17 @@ window.TUZ.entries.push({
 
         "Defter önündeydi.",
 
-        "Yeni bir defter — bu hafta içinde Behçet Amca'dan almıştı bir öğleden sonra. Bir bahane bulmuştu — kütüphane kayıtları için kullanacağını. Behçet defteri vermişti, sebebini sormadan. Kahverengi karton kapak, ince ip. Yüz on iki sayfa boş — Reha saymıştı, sayfalar tek tek elinin altında.",
+        "Yeni bir defter — bu hafta içinde Behçet Amca'dan almıştı. Bir bahane bulmuştu, kütüphane kayıtları için. Kahverengi karton kapak, ince ip. Yüz on iki sayfa boş.",
 
         "İlk sayfa boştu. Reha bir an o boş sayfaya baktı.",
 
         "Bir başlık yazmak istedi — yazmadı. Bir tarih yazmak istedi — yazmadı. Bir ad yazmak istedi — yazmadı.",
 
-        "Bedeni biliyordu — başlamadan önce bir süre boş sayfaya bakmak gerekirdi. Behçet Amca öğretmişti yıllarca, dolaylı olarak: yazılı kayıt yıllarca yaşar, ilk sayfasının tonu bütün defterin tonunu belirler. Bir başlık koyarsan kayıtın bir konusu olur. Bir tarih koyarsan kayıtın bir zaman çizgisi olur. Bir ad koyarsan kayıtın bir merkezi olur.",
+        "Bedeni biliyordu: ilk sayfasının tonu bütün defterin tonunu belirler. Bir başlık koyarsan bir konu, bir tarih bir zaman çizgisi, bir ad bir merkez olur.",
 
         "Reha bunlardan hiçbirini istemiyordu.",
 
-        "Bir başka şey yapmak istiyordu — bu sayfada her bir adın yan yana durması, hiçbir adın merkez olmaması. Bir adı bir başka adın altına yazmak: bir hiyerarşi. Bir adı bir başka adın yanına yazmak: bir liste. Bir adı bir başka adın etrafına yazmak: bir harita.",
+        "Her bir adın yan yana durması. Hiçbir adın merkez olmaması.",
 
         "Bir karar verdi.",
 
@@ -47,7 +47,7 @@ window.TUZ.entries.push({
 
         "3. Hâlit Bey'in evindeki konuşmadan kalan kelimeler — yazılı değil, bedeninde. Hâlit kayıt vermemişti, ama söylediği adlar vardı, üç-dört kişi: \"Karahan, Erivân, Kaldaş, Mestân — beraber çalışırdık.\" Kendisi de. Bu beş ad, Düzeltme Komisyonu üyeleriydi. Komisyon kararlarının altında imza atanlar.",
 
-        "4. Lemi'nin Tuzhane'sinden alınmış kısmi kayıt — Reha defteri henüz Lemi'den almamıştı tam, ama biliyordu ne içerirdi: yıllar boyunca tatlanmış tanelerin sicili, hangi aileye hangi taneyle gidildiği, hangi tanenin imha edildiği. Lemi'nin defteri Tuzhane'deydi şu an — mağaraya gitmemişti, çünkü Tuzhane teftişinde memur \"bir tek kayıt defteri\" görmek isteyebilirdi (kayıtçı evi izlenimi için). Sahte değildi defter — Lemi'nin gerçek kayıtlarının kuru özetiydi. Reha bunu Lemi ile konuşmuş, hatırladıklarını başlığa eklemişti zihninde.",
+        "4. Lemi'nin Tuzhane'sinden kısmi kayıt — defteri henüz almamıştı, ama biliyordu ne içerirdi: yıllarca tatlanmış tanelerin sicili, hangi aileye hangi taneyle gidildiği, hangi tanenin imha edildiği. Defter Tuzhane'deydi şu an — teftiş için bir kayıtçı evi izlenimi gerektiği için. Sahte değildi: Lemi'nin gerçek kayıtlarının kuru özetiydi.",
 
         "5. Folio 263-A. Mağaradaydı şu an. Reha onu sayfa olarak tutmuyordu önünde — ama on kez okumuştu üç gece içinde, bedeninde tam yazılıydı: \"Defne Mâriye Sezerân — 23 Eylül 1906 — 4 yaş — K-1 (tifo) — kabul: E. Sezerân.\"",
 
@@ -57,7 +57,7 @@ window.TUZ.entries.push({
 
         "Reha kalemini eline aldı.",
 
-        "Mum bir kez titredi — kapı kayıyordu belki, ya da pencereden bir nefes geliyordu, ya da bedeninin küçük bir hareketi. Reha titremeyi kabul etti — yine titreyecekti, defter boyunca bunu görmesi gerekecekti.",
+        "Mum bir kez titredi — pencereden bir nefes belki, ya da bedeninin küçük bir hareketi. Reha titremeyi kabul etti — defter boyunca bunu görmesi gerekecekti.",
 
         "Bir başlık yazmadı sayfa başına.",
 
@@ -79,17 +79,17 @@ window.TUZ.entries.push({
 
         { style: "quote", text: "~1825-1885. Sirik köyünden. Vâliçe'de Tuzcu. Annemin annesi. Bir baskında öldü. Bilinen 'şüpheli kişi' olarak." },
 
-        "Bir an. Reha cümleyi bir kez okudu. \"Bilinen.\" Bu kelime gerekli miydi? — kayıtta bilinmeyen bir şey neyse, bilinen olarak yazılırdı; eğer şüpheliyse ve bilinmiyor diye yazılırsa, kayıt zayıflardı. Reha \"Bilinen 'şüpheli kişi'\" cümlesini bıraktı. Tırnak işareti kelimenin devletin kelimesi olduğunu söylüyordu. Tırnaksız yazmazdı.",
+        "Bir an. Reha cümleyi bir kez okudu. \"Bilinen.\" Kelime kaldı — tırnak işareti kelimenin devletin kelimesi olduğunu söylüyordu. Tırnaksız yazmazdı.",
 
         "Üçüncü ad.",
 
         "Reha duraksadı.",
 
-        "Üçüncüsünü kim seçmeliydi? Beşinden hangi adı çekmeliydi? Bir kronolojik sıra mı, bir aile sırası mı, bir önem sırası mı, bir rastlantı sırası mı?",
+        "Üçüncüsünü kim seçmeliydi? Beşinden hangi adı çekmeliydi?",
 
-        "Kronolojik olsa Mâriye'den önce gelmeliydi — 1825 doğum, 1885 ölüm. Aile olsa Erol, Mâra, Cilâl gelmeliydi. Önem olsa Reha bunu nasıl belirlerdi?",
+        "Kronolojik olsa Mâriye'den önce gelmeliydi. Aile olsa Erol gelmeliydi. Önem olsa Reha bunu nasıl belirlerdi?",
 
-        "Karar verdi: yazıyı tamamlanmamış bırakacaktı. Bugün yazılanlar bu üç ad olabilirdi. Üç ad bir başlangıçtı. Sonra düzenlerdi. Bir liste değildi, bir defterdi — defterler yıllarca yazılırdı, sayfa sayfa, gerektikçe.",
+        "Karar verdi: yazıyı tamamlanmamış bırakacaktı. Bugün yazılanlar bu üç ad olabilirdi. Bir başlangıçtı. Bir liste değildi, bir defterdi — yıllarca yazılırdı.",
 
         { style: "hr" },
 
@@ -99,27 +99,27 @@ window.TUZ.entries.push({
 
         { style: "quote", text: "1869-1923. Vâliçe Defter-Hâne kayıtçısı. Sicil Düzeltmeleri Komisyonu üyesi (1898-1912). Kendi kızının İptal'ine imza attı: 23 Eylül 1906. Bunu yıllarca taşıdı. Bir taneyi kendi için sakladı." },
 
-        "Reha bu cümleleri yazdıktan sonra kalemini eline tutmaya devam etti bir süre. Üç-dört saniye, sonra kalemi bıraktı yine.",
+        "Reha kalemini bir süre elinde tuttu, sonra bıraktı.",
 
-        "Bu defter babasını bir suç defterine çeviriyor muydu? Bir suç defterini yazmak istemiyordu Reha. Babası bir suçluydu — bir tek kâğıda imza atması bunu söylüyordu. Ama bir suç defterine konulduğunda yalnızca suçtu — geri kalanı kayboluyordu. \"Bir taneyi kendi için sakladı.\" Bunu yazmıştı.",
+        "Bu defter babasını bir suç defterine çeviriyor muydu? Babası bir suçluydu — bir tek kâğıda imza bunu söylüyordu. Ama bir suç defterinde yalnızca suç vardı; geri kalanı kayboluyordu. \"Bir taneyi kendi için sakladı.\" Bunu da yazmıştı.",
 
-        "Hem suç, hem tövbeye yaklaşma. İki cümle yan yana. Yazılı.",
+        "Hem suç, hem tövbeye yaklaşma. Yazılı.",
 
         "Reha bunu kabul etti.",
 
         { style: "hr" },
 
-        "Saat sekize doğru Mâra üst kattan indi — yorgun yüzle, bir bardak su istedi. Reha mumu kapadı bir an — defteri görmesinden değil tam, daha çok kendi yazısının bir an kesilmesi için. Annesine su verdi, mutfakta birlikte oturdular bir-iki dakika.",
+        "Saat sekize doğru Mâra üst kattan indi — yorgun yüzle, bir bardak su istedi. Reha mumu kapadı bir an, annesine su verdi, mutfakta birlikte oturdular bir-iki dakika.",
 
-        "Mâra bugün dingindi. Sabah cenaze sorusunu yine sormadı — unutmuştu belki, fark etmemişti belki. Bardağı yarım içti, kalktı, yine yukarıya.",
+        "Mâra bugün dingindi. Cenaze sorusunu yine sormadı. Bardağı yarım içti, kalktı, yine yukarıya.",
 
         "Reha geri masaya geçti. Mumu yine yaktı.",
 
         "Dördüncü adı yazmadı bu akşam.",
 
-        "Sayfanın yarısı boştu hâlâ. Reha sayfayı çevirmedi — bugünkü sayfa bu olacaktı, dolu olmasa da kapanırdı bu gece. Yarın yeni sayfa olacaktı.",
+        "Sayfanın yarısı boştu hâlâ. Reha sayfayı çevirmedi — yarın yeni sayfa olacaktı.",
 
-        "Kalemi bıraktı. Mumu söndürmedi henüz — masada, kâğıdın yanında, küçük bir alev. Reha bir-iki dakika oturdu sayfanın önünde, sonra kapaktı.",
+        "Kalemi bıraktı. Mumu söndürmedi henüz — küçük bir alev. Reha bir-iki dakika oturdu sayfanın önünde, sonra kapaktı.",
 
         { style: "hr" },
 
@@ -127,7 +127,7 @@ window.TUZ.entries.push({
 
         "Defter masadaydı yine. Bir önceki gece kapatmıştı. Reha onu açtı.",
 
-        "Dün geceki üç ad orada. Reha onları yine okudu — kendi yazısıyla, bir başka bedenin yazısı gibi. Mürekkep kurumuştu, kuru kâğıttı, sade. Bir el yazısı kendisinin değilmiş gibi görünmüştü gece. Sabah ışığında daha kendininkiydi.",
+        "Dün geceki üç ad orada. Reha onları yine okudu — kendi yazısıyla, bir başka bedenin yazısı gibi. Mürekkep kurumuştu. Bir el yazısı kendisinin değilmiş gibi görünmüştü gece. Sabah ışığında daha kendininkiydi.",
 
         "Bir başka ad yazmaya hazırdı.",
 
@@ -151,11 +151,11 @@ window.TUZ.entries.push({
 
         { style: "quote", text: "1884, mart. İsim verilmeyecek. Çocuk. 6 yaş. Tane çok küçük. Mum altında çizgi var ama silik. Karar verdim okumamak. Aileye söyledim. Çocuk tanelerinin kuralı." },
 
-        "İsim verilmeyecek. İkinci kez Mâriye'nin defterinde \"isim verilmeyecek\" geçişi (ilk Bölüm yirmi ikide görmüştü Reha, 1882 eylülünde). Mâriye çocuk tanelerini okumazdı — çocukların adları onun defterinde de yazılmazdı.",
+        "İsim verilmeyecek. İkinci kez Mâriye'nin defterinde \"isim verilmeyecek\" geçişi. Mâriye çocuk tanelerini okumazdı — çocukların adları onun defterinde de yazılmazdı.",
 
         "Reha bir an düşündü.",
 
-        "Defne Mâriye, 1906'da öldüğünde 4 yaşındaydı. Mâriye yaşasaydı (yaşamamıştı tabii — 1885'te öldürülmüştü, Defne doğmadan), onun adı Mâriye'nin defterinde \"isim verilmeyecek\" diye geçerdi. Defne adı belki hiçbir Tuzcu defterine yazılmazdı.",
+        "Defne Mâriye, 1906'da öldüğünde 4 yaşındaydı. Mâriye yaşasaydı — yaşamamıştı tabii, 1885'te öldürülmüştü — onun adı Mâriye'nin defterinde \"isim verilmeyecek\" diye geçerdi. Defne adı belki hiçbir Tuzcu defterine yazılmazdı.",
 
         "Ama şimdi Reha onu yazmıştı kendi defterine. Dün gece, sayfa başında.",
 
@@ -181,7 +181,7 @@ window.TUZ.entries.push({
 
         "— Bugün yatakta kalayım. Soğuğum biraz.",
 
-        "Reha onu üst kata çıkardı. Yatağına yatırdı. Bir battaniye daha çekti üstüne. Annesi gerçekten yorgundu — bedeni iniyordu yavaşça, son haftadan beri biraz daha. Reha bunu fark etti — söylemedi.",
+        "Reha onu üst kata çıkardı. Yatağına yatırdı. Bir battaniye daha çekti üstüne. Annesi gerçekten yorgundu — bedeni iniyordu yavaşça. Reha bunu fark etti — söylemedi.",
 
         "— Sana çay getireyim saat birde.",
 
@@ -207,11 +207,11 @@ window.TUZ.entries.push({
 
         "Reha kalemi bıraktı.",
 
-        "Bir kafa kafaya konuştu kendi içinde — bu çocukların adları başka kâğıtlarda yazılı olmalıydı tabii. Aileler hatırlardı çoğu zaman. Mezarları olabilirdi — Defne'ninki yoktu, ama onlarınki olabilirdi. Reha kendi defterinde bu üç adı yazıyordu, çünkü babasının defterinde yazılıydı. Bir karşı-defter belki — babasının defteri ne tutuyorsa, onun karşısında bir başka kayıt.",
+        "Bir kafa kafaya konuştu kendi içinde: bu çocukların adları başka kâğıtlarda yazılı olmalıydı. Aileler hatırlardı. Mezarları olabilirdi — Defne'ninki yoktu, onlarınki olabilirdi. Reha bu üç adı yazıyordu çünkü babasının defterinde yazılıydı. Bir karşı-defter — babasının defteri ne tutuyorsa karşısında bir başka kayıt.",
 
-        "Ama bir başka şey de vardı. Reha bir Tuzcu defterine bakmıştı (Mâriye'nin defteri); şimdi babasının kaydına bakıyordu — Düzeltme defterine. İki kayıt birbirinin tersinden. Mâriye \"İsim verilmeyecek\" diyordu çocuklar için (bir koruma). Babası \"İPT.\" diyordu çocuklar için (bir silme). Aynı kararın iki sesi: \"yazma\" ve \"sil.\" İki Tuzcu olmayan iki ses, aynı çocuk için.",
+        "Ama bir başka şey de vardı. Reha bir Tuzcu defterine bakmıştı (Mâriye'nin defteri); şimdi babasının kaydına bakıyordu — Düzeltme defterine. İki kayıt birbirinin tersinden. Mâriye \"İsim verilmeyecek\" diyordu çocuklar için. Babası \"İPT.\" diyordu. Aynı kararın iki sesi: \"yazma\" ve \"sil.\"",
 
-        "Reha buna bir karar verdi. Bu üç çocuğu yazacaktı — ama ayrı bir sayfada. Defne ile yan yana koyamazdı henüz. Onlar bir başka aileye aitti, bir başka kayda. Reha kendi defterini bir gün bir başkasına vermek istese — bu üç çocuğun adları o aileleri yaralabilirdi (ya da yıllarca beklemiş bir adı geri getirebilirdi).",
+        "Reha buna bir karar verdi. Bu üç çocuğu yazacaktı — ama ayrı bir sayfada. Defne ile yan yana koyamazdı henüz. Bir gün bir başkasına vermek istese, bu adlar o aileleri yaralabilirdi — ya da yıllarca beklemiş bir adı geri getirebilirdi.",
 
         "Reha sayfayı çevirdi defterinde. Yeni bir sayfa açtı.",
 
@@ -221,7 +221,7 @@ window.TUZ.entries.push({
 
         { style: "quote", text: "(Sebep kodu K-1. Bu üç ad babamın özel kayıtlarında — Defter-Hâne resmi defterlerinde bu folio eksik.)" },
 
-        "Reha yan sayfayı boş bıraktı — başka çocuk adları gelirse buraya gelirdi. Üç ad, yarım sayfa. Defne için boş bir sayfa, çünkü Defne'nin yeri başka — onun adı kendi başınaydı. Sayfa bir.",
+        "Reha yan sayfayı boş bıraktı — başka çocuk adları gelirse buraya gelirdi. Üç ad, yarım sayfa.",
 
         { style: "hr" },
 
@@ -249,7 +249,7 @@ window.TUZ.entries.push({
 
         "Bir torba elinde — bir-iki ekmek, bir küçük kavanozda bal. Reha onu içeri aldı. Nahide kapı eşiğinde durdu yarım — geçmemişti tam.",
 
-        "— Lemi gönderdi. Sezerân evindeki yemek bittiğini görmüş Behçet Amca, Lemi'ye söylemiş. Bunu getirdim. Hâlit Bey'in cenazesinde Reha sabah erkenden ayrılmıştı belli, Lemi düşündü ki belki Reha eve dönemedi öğleden sonraya kadar.",
+        "— Lemi gönderdi. Sezerân evindeki yemek bittiğini görmüş Behçet Amca, Lemi'ye söylemiş. Bunu getirdim.",
 
         "Reha bunu kabul etti. Lemi bir sebep aramıştı Nahide'yi göndermek için — gerçek sebep yemek değildi belki, ama yemek de gerçekti.",
 
@@ -285,7 +285,7 @@ window.TUZ.entries.push({
 
         "Yarım sayfa boş bıraktı.",
 
-        "Defter şimdiye kadar:",
+        "Defter şimdiye kadar altı sayfada:",
 
         "Sayfa 1: Defne Mâriye Sezerân.",
 
@@ -301,7 +301,7 @@ window.TUZ.entries.push({
 
         "Altı sayfa. Yedinci için yine zaman vardı.",
 
-        "Reha bir başka ad aklında bekliyordu — Hâlit Mestân, 1864-1924. Dün gömülmüştü. Kayıtçıydı, Düzeltme Komisyonu üyesiydi, Düzeltme'nin son üyesi olarak öldü. Bu adam Erol'un yanında imza atmıştı kim bilir kaç kez — Defne için de imza atmıştı (folio 263-A'da: \"Mestân\"). Reha bu adı defterine yazmalıydı belki — bir suçlu olarak değil tam, bir tanık olarak.",
+        "Reha bir başka ad aklında bekliyordu — Hâlit Mestân, 1864-1924. Dün gömülmüştü. Düzeltme Komisyonu üyesi, Defne için de imza atmıştı (folio 263-A'da: \"Mestân\"). Reha bu adı yazmalıydı — bir suçlu olarak değil tam, bir tanık olarak.",
 
         "Düşündü.",
 
@@ -311,13 +311,13 @@ window.TUZ.entries.push({
 
         { style: "quote", text: "1864-1924. Vâliçe Defter-Hâne. Sicil Düzeltmeleri Komisyonu üyesi. Yıllarca rakı içti — sustu, sonra söyledi yarım, sonra sustu yine. Cenazesi pazar 30 Kasım, altı kişi katıldı." },
 
-        "Reha cümleyi yazdıktan sonra durdu. Üçüncü cümle — \"altı kişi katıldı\" — bir cenaze tutanağı gibiydi. İyi miydi? Bir karşı-defterde bir cenazenin altı kişi olduğunu yazmak — bu, bir kayıttan çok bir gözlemdi. Belki defter ikisi arası bir şey olmalıydı, Behçet Amca'nın dediği gibi. \"İkisi arası.\"",
+        "Reha cümleyi yazdıktan sonra durdu. Üçüncü cümle — \"altı kişi katıldı\" — bir cenaze tutanağı gibiydi. Bir karşı-defterde bir cenazenin altı kişi olduğunu yazmak: bir kayıttan çok bir gözlem. Defter ikisi arası bir şey olmalıydı, Behçet Amca'nın dediği gibi. \"İkisi arası.\"",
 
         "Reha kalemini bıraktı.",
 
         { style: "hr" },
 
-        "Yarım saat sonra aşağıya indi. Nahide salonda oturuyordu yine, dizi üstüne yarım eğik bir kitap (Reha'nın kütüphane masasında dururdu, çocukluk romanı, Cilâl'in eski kitaplarından), elinde değil tam — yarım açık kucağında. Okumuyordu — sadece tutuyordu.",
+        "Yarım saat sonra aşağıya indi. Nahide salonda oturuyordu yine, dizi üstüne yarım eğik bir kitap — Cilâl'in eski çocuk romanı. Okumuyordu — sadece tutuyordu.",
 
         "— Anneme bakmak ister misin?",
 
@@ -349,7 +349,7 @@ window.TUZ.entries.push({
 
         "— Aha. Doğru. Nahide.",
 
-        "Adını tekrar söyledi yumuşak. Bir tanıma kalmıştı belki — Bölüm yirmide ilk tanıştıklarında kullanmıştı bu adı, \"Bekliyordum seni bir gün\" demişti. Şimdi yine.",
+        "Adını tekrar söyledi yumuşak. Bir tanıma kalmıştı belki.",
 
         "Reha cevap vermedi yorum olarak. Annesinin eline elini koydu yarım.",
 
@@ -401,7 +401,7 @@ window.TUZ.entries.push({
 
         "— Bu deftere benim de bir-iki ad eklemem gerekir mi acaba?",
 
-        "Reha onun yüzüne baktı. Nahide on beş — bir Tuzcu kızı, annesi 1916'da öldü. Annesinin annesi de yaşamamıştı belki — Reha bilmiyordu Nahide'nin geçmişini tam.",
+        "Reha onun yüzüne baktı. Nahide on beş — bir Tuzcu kızı, annesi 1916'da öldü.",
 
         "— Sen yazmak ister misin?",
 
@@ -431,7 +431,7 @@ window.TUZ.entries.push({
 
         "Defter bir gece daha bekleyebilirdi. Yarın pazartesi sabah — teftiş. Defter yatak başında olamazdı pazartesi sabah — bir yere saklanmalıydı.",
 
-        "Reha düşündü. Yatağın altında gevşek bir tahta vardı — Bölüm dörtte babasının deri defterini de oradan bulmuştu (taş altında, tuz-evinde). Burada yatak altında bir benzer aralık vardı — çocukluğundan beri biliyordu. Bir oyuncak saklardı oraya yıllar önce. Tahta sökülürdü kolay, sonra geri konulurdu. Görünür değildi yatağın altındaydı tam.",
+        "Reha düşündü. Yatağın altında gevşek bir tahta vardı — çocukluğundan beri biliyordu, bir oyuncak saklardı oraya yıllar önce. Tahta sökülürdü kolay, sonra geri konulurdu. Görünür değildi.",
 
         "Yarın sabah erken defteri oraya koyacaktı. Bu gece masada bırakırdı yine.",
 
@@ -439,7 +439,7 @@ window.TUZ.entries.push({
 
         "Yedi sayfa. Yedi ad — Defne, Mâriye, Erol, Sevdâ, Kerem-Sami-Nazife (bir sayfada), Hâlit, Hayriye. Lemi'nin üç adı bekliyor. Nahide'nin annesi bekliyor. Nahide'nin annesinin annesi bekliyor.",
 
-        "Reha bir an düşündü: bu defter ne içindi? Behçet Amca demişti yıllar sonra anlamayacaktın belki, ama yine de yazmalıydın. Reha bunu kabul etmişti yokuşta. Bugün yazdığı sekiz ad — yarınki teftişten sonra kalacak. Pazartesi sabah memur defteri bulmazsa, defter kalır. Memur bulursa, defter alınır.",
+        "Reha bir an düşündü: bu defter ne içindi? Behçet Amca demişti yıllar sonra anlamayacaktın belki, ama yine de yazmalıydın. Bugün yazdığı sekiz ad — yarınki teftişten sonra kalacaktı, ya da alınacaktı.",
 
         "Reha mumu söndürdü.",
 
@@ -453,7 +453,7 @@ window.TUZ.entries.push({
 
         "Babasının deri defterini masada bıraktı — açıkça duruyordu. Bu defter zaten devletin kayıtlarındaydı, biliyorlar zaten Erol'un memurluğunu. Memur bunu alırdı belki.",
 
-        "Mâriye'nin defterini bir başka yere koydu — mutfak çekmecesinin altındaki gizli bölüme, Mâra'nın yıllarca tarçın kavanozu sakladığı bir küçük yer. Memur orayı kontrol etmezdi normalde. Eğer kontrol ederse — Reha hazır değildi tam, ama bedeni hazırdı.",
+        "Mâriye'nin defterini bir başka yere koydu — mutfak çekmecesinin altındaki gizli bölüme, Mâra'nın yıllarca tarçın kavanozu sakladığı bir küçük yer.",
 
         "Folio mağarada güvende — onu kimse bilmiyordu.",
 

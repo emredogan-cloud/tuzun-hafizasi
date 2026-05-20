@@ -119,11 +119,11 @@ window.TUZ.entries.push({
 
         "Lemi'nin bedeni — küçük olmuştu son haftada, yine de bir yetişkin bedeni ağırlığında. Pijaması üstündeydi — gri pamuk, ince. Reha onun ellerini ilk kez bu yakından gördü — uzun, kemikli, parmakları biraz iç bükük, bir tatçının yıllarca eğitilmiş elleri. Sağ elinin bileğinde bir küçük leke vardı — eski, sararmış, belki bir yıllar önce bir yanık izi.",
 
-        "Nahide bir keten parçayı suyla ıslatmıştı tas içinde. Sağ kolundan başladı — bilek yarım, sonra el, sonra parmaklar. Yumuşak. Bir Tuzcu cenazesinde acele yoktu. Bir başka kayıt değildi tam — bir hareket, bir vedalaşma değildi tam, bir kabul.",
+        "Nahide bir keten parçayı suyla ıslatmıştı tas içinde. Sağ kolundan başladı — bilek yarım, sonra el, sonra parmaklar. Yumuşak. Bir Tuzcu cenazesinde acele yoktu.",
 
         "Reha sol koldan başladı.",
 
-        "İlk birkaç saniye eli yarım titriyordu — daha önce bir ölü bedeni yıkamamıştı tam. Çocukluğunda iki büyükannesinin cenazesinde annesi ona yıkamayı izlettirmemişti, dışarıda tutulmuştu. Babasının cenazesinde de yıkamada yoktu — Levent Amca yapmıştı. Şimdi ilk kez.",
+        "İlk birkaç saniye eli yarım titriyordu — daha önce bir ölü bedeni yıkamamıştı tam. Çocukluğunda annesi ona yıkamayı izlettirmemişti. Babasının cenazesinde Levent Amca yapmıştı. Şimdi ilk kez.",
 
         "Bedeni yarım bir hareket öğretti yumuşak — eli birkaç saniye sonra çalıştı.",
 
@@ -137,15 +137,15 @@ window.TUZ.entries.push({
 
         { style: "hr" },
 
-        "Yıkama bir saat sürdü belki. Daha az belki. Sıraya uydular: sağ kol, sol kol, gövde, sırt (birlikte döndürdüler beden), bacaklar, ayaklar. Saçlarını ıslatmadılar tam — Tuzcu adetlerinde kafa son sırada, bir küçük nemli mendille. Yüzü sona bıraktılar.",
+        "Yıkama bir saat sürdü belki. Sıraya uydular: kollar, gövde, sırt (birlikte döndürdüler beden), bacaklar, ayaklar. Saçlarını ıslatmadılar tam — Tuzcu adetinde kafa son sırada, küçük nemli mendille. Yüzü sona bıraktılar.",
 
-        "Lemi'nin yüzü temizdi sabaha doğru — dünden temizdi. Bir-iki damla su tek bir kuruluk taşıdı yine. Nahide sakal kenarını yumuşak sildi — Lemi'nin sakalı temizdi, kısa kesilmemiş yarım, ama dağılmış değildi tam.",
+        "Lemi'nin yüzü temizdi sabaha doğru — dünden temizdi. Nahide sakal kenarını yumuşak sildi — sakalı temizdi, dağılmış değildi tam.",
 
         "Sonra kefenleme.",
 
         "Büyük keten parça — temiz, kuru. İkisi yarım kaldırdılar Lemi'yi — biri başucundan, biri ayakucundan — keten parçanın üstüne bedeni yerleştirdiler. Sonra parçanın bir yarısını döndürüp diğer yarısının üstüne çektiler — bir küçük kıvrımla.",
 
-        "Bedeni sarmalandı. Yüzü yarım açıkta kaldı bir-iki dakika — kefen yüzü kapatmazdı tam Tuzcu adetinde son ana kadar. Bir Tuzcu için yüz hep son anda kapatılırdı, bir el ile.",
+        "Bedeni sarmalandı. Yüzü yarım açıkta kaldı bir-iki dakika — kefen yüzü kapatmazdı tam Tuzcu adetinde son ana kadar.",
 
         "Nahide sehpadan bir küçük damla esans aldı — kefen kenarına yarım, bir küçük yer. Lavanta benzeri, ama daha küçük çiçek. Reha kokuyu tanımadı tam, ama Tuzcu adetinde bu da bir adım olduğunu biliyordu.",
 
@@ -179,9 +179,9 @@ window.TUZ.entries.push({
 
         "Mezarlığın doğu yamacında — Mâra'nın mezarına yakın değildi tam (Sezerân ailesinin yeri ile Tuzcular'a ayrılmış küçük bölüm farklıydı). Lemi'nin mezarı eski Tuzcu küçük bölümünde, bir-iki başka kayıtsız mezar yanında. Levent Amca onun bunu istediğini söyledi — yıllar önce konuşmuşlardı.",
 
-        "Üç kişi: Reha, Nahide, Behçet Amca. Levent Amca küreğiyle. Doktor Hasan Bey ölüm tutanağı için sabah erken gelmişti — \"bir doğal sebep, eski karaciğer hastalığı\" yazmıştı, Behçet'e vermişti. Doktor cenazeye gelmedi — başka bir iş.",
+        "Üç kişi: Reha, Nahide, Behçet Amca. Levent Amca küreğiyle. Doktor Hasan Bey ölüm tutanağı için sabah erken gelmişti — \"bir doğal sebep, eski karaciğer hastalığı\" yazmıştı, Behçet'e vermişti.",
 
-        "Pencerede bulunan tane bir küçük keten parçaya sarıldı — Nahide hazırladı. Mezara konuldu Tuzcu adetinde — Lemi'nin bedeninin yanına, sağ omzun yan tarafına. Bir Tuzcu'nun kendi tuzu kendi mezarına gömülürdü — okunmazdı, ölüye geri verilirdi.",
+        "Pencerede bulunan tane bir küçük keten parçaya sarıldı — Nahide hazırladı. Mezara konuldu Tuzcu adetinde — Lemi'nin bedeninin yanına, sağ omzun yan tarafına. Kendi tuzu mezarına gömülürdü — okunmazdı.",
 
         "Tabut basit ahşaptı yine — Levent Amca'nın yaptığı. Halatlarla indirdiler. Toprak yarım kapadılar bir-iki dakikada — kasım sonu kuru toprağı, gri-kahverengi.",
 

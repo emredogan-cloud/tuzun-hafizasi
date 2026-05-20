@@ -28,7 +28,7 @@ window.TUZ.entries.push({
 
         { style: "hr" },
 
-        "Patika kayardı bu nemde. Reha adımlarını ölçülü tuttu. Ayakkabıları sertti, ses çıkarıyordu taşa — yumuşak adımlamaya çalıştı. Sahile indiğinde bedeni hâlâ uykuya yakındı, ama bedenin uykusu yararlıydı bir tarafta: gergin değildi.",
+        "Patika kayardı bu nemde. Reha adımlarını ölçülü tuttu. Ayakkabıları sertti, ses çıkarıyordu taşa — yumuşak adımlamaya çalıştı. Sahile indiğinde bedeni hâlâ uykuya yakındı — gergin değildi.",
 
         "Sahil kuruydu yarım — ince bir kum çizgisi vardı suya yakın, kalanı taşlıydı. Reha batıya yöneldi. Eski Tuzhane sırtın arkasında kaldı bir-iki dakika sonra.",
 
@@ -46,11 +46,11 @@ window.TUZ.entries.push({
 
         { style: "hr" },
 
-        "Mağara batı burnunun gerisindeydi. Sahil patikası burnun yarısından sonra kayalığa dönüşüyordu — patika bitiyor, küçük taşlar arasından inilmesi gerekiyor. Lemi önde yürüdü, Nahide ortada, Reha arkada. Lamba kimsenin elinde yoktu — Lemi bilinçli olarak öyle istemişti, sahilden uzaktan görünmemek için.",
+        "Mağara batı burnunun gerisindeydi. Sahil patikası burnun yarısından sonra kayalığa dönüşüyordu — patika bitiyor, küçük taşlar arasından inilmesi gerekiyor. Lemi önde yürüdü, Nahide ortada, Reha arkada. Lamba kimsenin elinde yoktu — Lemi bilinçli olarak öyle istemişti.",
 
         "Burnun arkasına geçtiklerinde sahil küçük bir kuytuya açılıyordu — yüksek bir kayanın altında bir dar geçit. Lemi durdu, eline bir küçük lamba çıkardı çantasından, yaktı. Alev tek küçük yandı.",
 
-        "Kayanın altında bir aralık. Geçit dar — bir adam yan yana geçer ancak. İçeride bir oda — dipte, küçük, kuru. Reha eğildi, içeri girdi. Lemi arkada. Nahide ardından.",
+        "İçeride bir oda — dipte, küçük, kuru. Reha eğildi, içeri girdi. Lemi arkada. Nahide ardından.",
 
         "İçeri girdiklerinde Reha bir an doğruldu — yüksekliği iki metre var iyice. Duvarlar kuru taş — denizden çok yukarıda, gel-gitlerden uzak. Yer kuruydu. Köşede eski bir-iki keten parça vardı — Lemi'nin geçmişten bıraktığı, ya da bir başka Tuzcunun yıllar önce.",
 
@@ -90,17 +90,17 @@ window.TUZ.entries.push({
 
         { style: "hr" },
 
-        "Reha eve döndüğünde saat dört buçuğa yakındı. Mâra hâlâ uyuyordu — Reha onun odasının önünde durdu bir an, soluk eşitti. Kendi odasına girdi. Hırkasını çıkardı. Yatağa girdi.",
+        "Reha eve döndüğünde saat dört buçuğa yakındı. Mâra hâlâ uyuyordu — soluk eşitti. Kendi odasına girdi. Hırkasını çıkardı. Yatağa girdi.",
 
         "Sabaha kadar yarı uyudu. Saat yedide kalktı. Mâra'yı duydu aşağıda — çay koymaya başlamıştı kendi başına.",
 
-        "Sabah dinginceti. Reha mutfakta annesinin yanında bir-iki saat geçirdi. Mâra bugün iyiydi yarı — Cilâl'i sormadı bu sefer, babayı sormadı. Bezelye mevsiminden bahsetti yine — eski bir anı, çocukluğundan, kendi annesinin bezelye dikim mevsimi hikâyesi. Reha onun anlattığını dinledi — bedenini yormadı sorular sorarak. Sadece dinledi.",
+        "Sabah dinginceti. Reha mutfakta annesinin yanında bir-iki saat geçirdi. Mâra bugün iyiydi yarı — Cilâl'i sormadı bu sefer, babayı sormadı. Bezelye mevsiminden bahsetti yine — eski bir anı, çocukluğundan. Reha onun anlattığını dinledi — sorular sormadı. Sadece dinledi.",
 
-        "Öğleden sonra Reha yine bir kez Tuzhane'ye uğradı — kısa, bir-iki şey doğrulamak için. Lemi orada değildi — Suhâl Nine'ye gitmişti dediği gibi. Nahide kapıdaydı yine. Reha onun yanına oturdu eşikte bir-iki dakika. Konuşmadılar tam — bir başka şey söylenmesi gerekmedi.",
+        "Öğleden sonra Reha Tuzhane'ye uğradı — kısa, bir-iki şey doğrulamak için. Lemi yoktu, Suhâl Nine'ye gitmişti. Nahide kapıdaydı. Reha eşiğe oturdu bir-iki dakika. Konuşmadılar tam.",
 
-        "Akşam saat altıda İlhan kapıdaydı yine — kart elinde. Resmi tonla teftiş tarihini söyledi — pazartesi sabah saat dokuz. Mâra salonda, Reha onu yanına çağırmıştı, memurun bir an görmek istemesinde diye. Mâra İlhan'ın sesinden tanımadı belli — yüzüne baktı, başını eğdi, başka bir şey demedi. İlhan kartı masaya bıraktı, gitti.",
+        "Akşam saat altıda İlhan kapıdaydı yine — kart elinde. Resmi tonla teftiş tarihini söyledi — pazartesi sabah saat dokuz. Mâra salonda, Reha onu yanına çağırmıştı. Mâra İlhan'ı sesinden tanımadı belli — yüzüne baktı, başını eğdi. İlhan kartı masaya bıraktı, gitti.",
 
-        "Reha kartı masada bıraktı. Bir saat sonra Mâra onu eline aldı, baktı, geri koydu, hiçbir şey demedi.",
+        "Reha kartı masada bıraktı. Bir saat sonra Mâra onu eline aldı, baktı, geri koydu.",
 
         { style: "hr" },
 
@@ -164,11 +164,11 @@ window.TUZ.entries.push({
 
         { style: "hr" },
 
-        "Üçüncü gece son gece. Lemi sahilde Reha'yı karşıladığında daha yorgundu — iki gecenin yorgunluğu birikmişti yaşında. Nahide de bir parça daha yavaştı bu gece.",
+        "Üçüncü gece son gece. Lemi sahilde Reha'yı karşıladığında daha yorgundu — iki gecenin yorgunluğu birikmişti. Nahide de bir parça daha yavaştı.",
 
-        "Beş çuval taşıdılar üç turda — son tur en uzun, mağarada gözden geçirme zamanı da geçirdiler.",
+        "Beş çuval taşıdılar üç turda. Son tur en uzun — mağarada gözden geçirme zamanı da geçirdiler.",
 
-        "Mağaraya son turda vardıklarında Lemi sandıkları gözden geçirdi. Üç sandık tam — taneler dizilmiş, defterler bir-iki tane sarılı keten parçayla, ek küçük kuşaklar, bir-iki mühür. Reha kendi paketlerini gördü — üç paket bir sandıkta, küçük bir köşede.",
+        "Lemi sandıkları gözden geçirdi. Üç sandık tam — taneler dizilmiş, defterler keten parçayla sarılı, küçük kuşaklar. Reha kendi paketlerini gördü — üç paket bir sandıkta.",
 
         "Lemi bir başka tahta sandığı çıkardı — bunu bu gece getirmişti, daha önce mağarada değildi. Sandığın kapağı kapalıydı. Onu yere koydu mağaranın orta yerinde.",
 

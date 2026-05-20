@@ -81,7 +81,7 @@ window.TUZ.entries.push({
 
         { style: "quote", text: "— İ." },
 
-        "Reha kâğıdı okudu bir kez. Bir kez daha — yavaş, sözcükleri içeride yerleştirmek için. Bedeninde küçük bir titreme yarım — dış değil, iç. İlhan'ın sesi vardı bu cümlelerde, kuru, alçak, askeri olmadan tam askerî. \"Senin işin artık.\" Bu cümle Lemi'nin söylediği başka bir şeye benziyordu — \"Sen kararını ver,\" \"Senin işin.\" İki adam benzer şeyler söylüyordu farklı koridorlarından.",
+        "Reha kâğıdı okudu bir kez. Bir kez daha — yavaş, sözcükleri içeride yerleştirmek için. Bedeninde küçük bir titreme — dış değil, iç. İlhan'ın sesi vardı bu cümlelerde, kuru, alçak, askeri olmadan tam askerî. \"Senin işin artık.\" Lemi'nin söylediği başka bir şeye benziyordu — \"Sen kararını ver.\"",
 
         "Notu yan kenara koydu.",
 
@@ -93,9 +93,9 @@ window.TUZ.entries.push({
 
         "İçeride bir tane — küçük, beyaz, sıradan görünüyordu. Reha onu eline almadı henüz — yatay tuttu katlama kapağında, baktı bir an. Yatak başında mum vardı — bir küçük yarım yanmış mum, gece için. Onu yakacaktı belki çizgi görmek için. Şimdi yakmadı henüz.",
 
-        "İkinci katlama. Açtı. Bir başka tane — boyutu birinciye benzer, biçimi farklı. Tuz kristali doğal olarak farklı biçimlerde oluşurdu — Reha bunu Lemi'den öğrenmişti aylar önce.",
+        "İkinci katlama. Açtı. Bir başka tane — boyutu birinciye benzer, biçimi farklı.",
 
-        "Üçüncü katlama. Açtı. Bir başka tane yine. Bu sefer biraz daha küçük — bir parça daha. Belki bir başka mevsim, belki bir başka kıyıdan.",
+        "Üçüncü katlama. Açtı. Bir başka tane yine. Bu sefer biraz daha küçük.",
 
         "Üç tane yan yana — Reha onları masaya koydu, küçük bir keten parçanın üstüne. Üçüne baktı bir-iki dakika.",
 
@@ -121,7 +121,7 @@ window.TUZ.entries.push({
 
         "Üçüncü tane — Reha onu bilmiyordu kim için. İlhan söylememişti. Bir gün söyler belki bir mektupta, ya da hiç söylemez.",
 
-        "Reha mumu yakmamayı seçti çünkü her üç taneyi sırayla mum altına tutarak okunabilirlik kontrolü yapmak — bir doktorun bedeni kontrol etmesi gibi — bir karar verecekti bir yıl sonra hangi tanenin tatlanacağına. Şu an karar verecek bir bedeni yoktu Reha'da.",
+        "Reha mumu yakmamayı seçti — her üç taneyi sırayla mum altına tutarak okunabilirlik kontrolü yapmak şu an bir karar değildi. Bir yıl sonra hangi tanenin tatlanacağına karar vermek için bedeni hazır değildi.",
 
         "Üç taneyi keten parçaya katladı yine — bu sefer kendi katlamasıyla, daha az düzenli belki. Üç ayrı küçük paket yine. Dış katmana sardı yine — İlhan'ın ipsiz keten parçası. Bir küçük paket yine.",
 
@@ -153,7 +153,7 @@ window.TUZ.entries.push({
 
         "Üç tane masada — keten paket içinde.",
 
-        "Çekmeceyi açtı yine yatak yanındaki küçük ahşap çekmece. Üç-dört kez paket çekmecede kalmıştı zaten son üç hafta; şimdi yine oraya gidecekti — ama farklı bir niyetle bu sefer. Bir bilgi olarak, bir kayıt olarak değil.",
+        "Çekmeceyi açtı yine — yatak yanındaki küçük ahşap çekmece. Paket çekmecede üç hafta kalmıştı zaten; bu sefer farklı bir niyetle gidecekti.",
 
         "Paketi çekmeceye yerleştirdi.",
 
@@ -167,7 +167,7 @@ window.TUZ.entries.push({
 
         "Reha paketi yine eline aldı çekmeceden.",
 
-        "Salonda bir şey vardı — Mâra'nın eski salt-evinin küçük ahşap kutusu (Bölüm üçten beri Reha'nın çocukluk hatırasında, bir dönem oyuncak kutusu olarak kullanılmıştı). Şimdi boş duruyordu salonda bir köşede, raf üstünde. İçi temizdi, bir küçük örtü yarım örtüyordu.",
+        "Salonda bir şey vardı — Mâra'nın eski salt-evinin küçük ahşap kutusu, çocukluk hatırasından. Şimdi boş duruyordu raf üstünde, bir küçük örtü yarım örtüyordu.",
 
         "Reha aşağıya indi.",
 
@@ -199,15 +199,15 @@ window.TUZ.entries.push({
 
         "Pencereden dışarıya baktı bir an. Yağmur durmuştu — gece yağmıştı çoğu, sabah biraz. Şimdi açık, bulutlu yine ama yağmıyordu. Bir-iki bulut kıyıdan çıkıyordu doğuya.",
 
-        "Nahide gelir mi öğleden sonra — Reha bilmiyordu. Lemi'nin son haftadaki durumuna bağlıydı. Nahide gelirse Reha ona söylerdi: \"İlhan'ın paketi açıldı bu sabah. Üç tane var, raf üstündeki kutuda. Sen istersen oku bir gün. Lemi'ye söyleme şu an.\"",
+        "Nahide gelir mi öğleden sonra — Reha bilmiyordu. Lemi'nin son haftadaki durumuna bağlıydı. Nahide gelirse paketi ona söylerdi — Lemi'ye söylememesini de isteyecekti.",
 
-        "Nahide kabul ederdi belli. Lemi'ye söyleme — Lemi'nin son zamanlarında ek bir yük olmazdı bu, ek bir karar gerektirmezdi. Lemi'nin bedeni öldürülmeye yakındı; üç tane bir başka adamın ailesinden Lemi'nin işi değildi artık.",
+        "Lemi'nin bedeni öldürülmeye yakındı; üç tane bir başka adamın ailesinden Lemi'nin işi değildi artık.",
 
         "Reha öğleden sonra düşünmedi tam. Şu an sobada bir sıcak vardı, üç tane raf üstünde bir kutuda, bir not yatak altında boş aralıkta. Yer yerini bulmuştu.",
 
         "Bir mektup belki gelir bir gün başka kasabadan — \"belki yazarım, belki yazmam\" İlhan demişti. Reha bir mektup beklemedi tam. \"Belki\" — bir veda değildi tam, bir kapı yarım açık bırakılmıştı.",
 
-        "Mektup gelirse cevap verirdi, gelmezse vermezdi. \"Senin işin artık\" — bu cümle bir mektubun gerekliliğini sıfırlamıştı. İlhan zaten bir tek şey söylemişti söyleyebileceği kadarını. Bir başka şey eklemezse anlam değişmezdi.",
+        "Mektup gelirse cevap verirdi, gelmezse vermezdi. \"Senin işin artık\" cümlesi bir mektubun gerekliliğini sıfırlamıştı.",
 
         "Reha bedeninde bir kabul yerleştirdi yine.",
 
