@@ -79,6 +79,8 @@ window.TUZ.entries.push({
 
         "Mâra başını eğdi. Bunu duymuştu — yatakta odadakinin tanıdığı bir cümle, çıplak. Adın kendisi de bedenine bir tortuyla geri geldi.",
 
+        "(Mâra adın içinde bir an yarım kayboldu. Bir bezelye mevsimi belki, bir kapı, bir küçük el — şimdi karışıktı, şimdi neyi neyin önüne koyacağını bilemedi. Reha'nın eli kendi elinin üstündeydi yine — Reha mıydı bu, Defne miydi, ya da ikisi birden. Bedeni karar vermedi. Sadece elin sıcaklığı kaldı.)",
+
         "Bir an.",
 
         "Sonra Mâra konuştu yine — daha alçak.",

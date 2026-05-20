@@ -327,6 +327,8 @@ window.TUZ.entries.push({
 
         "Şimdi mutfak masasında otururken bir-iki dakika bekledi yine. Bir karar olmamıştı tam — bir devamlılık. Lemi'nin son cümlesi: \"Bir alışkanlık olarak dursun.\" Reha bunu kabul ediyordu yine sessizce.",
 
+        "Sabah postada Cilâl Hala'dan kısa bir mektup vardı — Lemi'yi sormuştu, kasabaya yine geleyim mi diye soruyordu. Reha cevabı yarına bırakmıştı.",
+
         "Akşamdı yavaşça."
     ]
 });
