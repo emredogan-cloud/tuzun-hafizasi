@@ -279,7 +279,7 @@ window.TUZ.entries.push({
 
         "Reha bunun bir karar olduğunu anladı. Mektup karar değildi — karar Reha'nındı. Mektup sadece sınırı tarif ediyordu.",
 
-        "Reha sayfayı katladı. Eski bir gazetenin arasına koydu, masanın altındaki bir çekmeceye, görünmez bir yere. Şimdi bir karar verme zamanı değildi. Yarın, ya da öbür gün. Şimdi başka bir şey vardı yapılacak.",
+        "Reha sayfayı katladı. Eski bir gazetenin arasına koydu, mutfak çekmecesine, görünmez bir yere. Şimdi bir karar verme zamanı değildi. Yarın, ya da öbür gün. Şimdi başka bir şey vardı yapılacak.",
 
         { style: "hr" },
 

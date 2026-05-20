@@ -295,7 +295,7 @@ window.TUZ.entries.push({
 
         "Bedeninde bir başka yer istedi.",
 
-        "Mutfaktan arka kapıya geçti — bahçeye. Bahçe kuruydu, kasım sonu nemli toprak, nane vahşi büyümüş köşede hâlâ yaşıyordu küçük yapraklarıyla.",
+        "Mutfaktan arka kapıya geçti — bahçeye.",
 
         "Bahçenin arkasındaki taş yapıya yürüdü — aile tuz-evi. Anahtarı cebinden çıkardı — bir-iki haftadır kullanmamıştı tam, son kullanım Bölüm yirmi sekizdeki teftişten önceydi.",
 
